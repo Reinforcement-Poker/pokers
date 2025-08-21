@@ -1,0 +1,3 @@
+[submodule "PokerHandEvaluator"]
+	path = PokerHandEvaluator
+	url = git@github.com:chaorderss/PokerHandEvaluator.git

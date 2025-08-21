@@ -5,10 +5,14 @@ use pyo3::prelude::*;
 use rayon::prelude::*;
 
 #[pyfunction]
-pub fn parallel_apply_action(states: Vec<State>, actions: Vec<Action>) -> Vec<State> {
+pub fn parallel_apply_action(mut states: Vec<State>, actions: Vec<Action>) -> Vec<State> {
     states
-        .par_iter()
+        .par_iter_mut()
         .zip(actions)
-        .map(|(s, a)| s.apply_action(a))
-        .collect()
+        .for_each(|(s, a)| {
+            // apply_action now returns PyResult<()> and modifies in place.
+            // We can ignore the result here as errors are stored in state.status.
+            s.apply_action_rs(a);
+        });
+    states
 }

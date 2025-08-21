@@ -42,6 +42,7 @@ class State:
         verbose: bool = False,
     ) -> State: ...
     def apply_action(self, action: Action) -> State: ...
+    def get_legal_action_ints(self) -> list[int]: ...
     def __str__(self) -> str: ...
 
 class PlayerState:
@@ -68,20 +69,20 @@ class ActionRecord:
     player: int
     stage: Stage
     action: Action
-    legal_actions: list[ActionEnum]
+    legal_actions: list[int]
 
 class ActionEnum(Enum):
     Fold = 0
     Check = 1
     Call = 2
-    Raise = 3
+    BetRaise = 3
 
     def __int__(self): ...
 
 class Action:
     action: ActionEnum
-    amount: int
-    def __new__(cls, action: ActionEnum, amount: float = 0) -> None: ...
+    amount: float
+    def __new__(cls, action: ActionEnum, amount: float = 0.0) -> None: ...
 
 # card.rs ---------------------------------------------------------------------
 

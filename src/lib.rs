@@ -1,9 +1,15 @@
 // lib.rs
 use pyo3::prelude::*;
-mod game_logic;
-mod parallel;
-mod state;
-mod visualization;
+pub mod game_logic;
+pub mod parallel;
+pub mod state;
+pub mod visualization;
+
+// WebSocket server modules (not exposed to Python)
+#[cfg(feature = "websocket")]
+pub mod game_server;
+#[cfg(feature = "websocket")]
+pub mod websocket_server;
 
 /// A Python module implemented in Rust.
 #[pymodule]
@@ -12,6 +18,7 @@ fn pokers(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<state::State>()?;
     m.add_class::<state::PlayerState>()?;
     m.add_class::<state::StateStatus>()?;
+    m.add_class::<state::BettingRoundContext>()?;
     m.add_class::<state::stage::Stage>()?;
     m.add_class::<state::action::ActionEnum>()?;
     m.add_class::<state::action::Action>()?;

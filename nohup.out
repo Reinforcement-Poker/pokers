@@ -1,0 +1,2089 @@
+Using device: cuda
+DeepCFRAgent models reset successfully.
+DeepCFRAgent models reset successfully.
+Loading initial weights from checkpoint: /home/hj/beans/models_batch/gto_preflop_batch_checkpoint_iter_195.pt
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(2.1bb) --> HJ(5.0bb) --> CO(12.0bb) --> BTN(call) --> SB(45.4bb) --> BB(108.0bb) --> UTG(197.9bb) --> HJ(all-in) --> CO(all-in) --> BTN(all-in) --> SB(all-in) --> BB(all-in)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 6♣ 5♣ | range_idx: 62
+   Action: 92.0bb | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $2395.82
+🃏 Community: A♠ 8♥ 3♥ 10♠ 4♥
+
+🏁 Final Results:
+  🤖 BTN | Hand: 5♠ 9♥ | 🔴 | Profit: $-400.00 | range_idx: 149
+  👤 SB | Hand: Q♦ 3♦ | 🔴 | Profit: $-400.00 | range_idx: 71
+  👤 BB | Hand: 6♣ 5♣ | 🔴 | Profit: $-400.00 | range_idx: 62
+  👤 UTG | Hand: K♠ 6♠ | 🔴 | Profit: $-395.82 | range_idx: 52
+  👤 HJ | Hand: 9♦ A♦ | 🟢 | Profit: $1995.82 | range_idx: 18
+  👤 CO | Hand: 10♦ J♠ | 🔴 | Profit: $-400.00 | range_idx: 46
+============================================================
+
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(check)
+   🌊 Flop: SB(check) --> BB(fold) --> UTG(check) --> HJ(check) --> CO(check) --> BTN(check)
+   🔄 Turn: SB(check) --> UTG(check) --> HJ(check) --> CO(check) --> BTN(check)
+   🏁 River: SB(check) --> UTG(check) --> HJ(check) --> CO(check) --> BTN(check)
+
+🎮 Game 100 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: 5♣ J♦ | range_idx: 715
+   Action: check | Stake: $398.00 | Bet: $0.00 | 🟢 Active
+❓ Stage: Showdown | 💰 Pot: $12.00
+🃏 Community: Q♥ 8♣ J♣ A♣ 3♥
+
+🏁 Final Results:
+  🤖 BB | Hand: 9♦ A♥ | 🔴 | Profit: $-2.00 | range_idx: 1206
+  👤 UTG | Hand: 4♦ 6♠ | 🔴 | Profit: $-2.00 | range_idx: 181
+  👤 HJ | Hand: 7♠ 2♠ | 🔴 | Profit: $-2.00 | range_idx: 256
+  👤 CO | Hand: 4♥ 5♠ | 🔴 | Profit: $-2.00 | range_idx: 114
+  👤 BTN | Hand: 5♣ J♦ | 🟢 | Profit: $10.00 | range_idx: 715
+  👤 SB | Hand: 3♣ 9♠ | 🔴 | Profit: $-2.00 | range_idx: 469
+============================================================
+
+🎯 Game 200 Action Sequence:
+   🃏 Preflop: UTG(check) --> HJ(check) --> CO(4.9bb) --> BTN(call) --> SB(call) --> BB(call) --> UTG(call) --> HJ(call)
+   🌊 Flop: SB(check) --> BB(check) --> UTG(check) --> HJ(check) --> CO(check) --> BTN(check)
+   🔄 Turn: SB(check) --> BB(check) --> UTG(check) --> HJ(48.5bb) --> CO(fold) --> BTN(call) --> SB(call) --> BB(call) --> UTG(call)
+   🏁 River: SB(check) --> BB(check) --> UTG(check) --> HJ(146.6bb) --> BTN(call) --> SB(call) --> BB(call)
+
+🎮 Game 200 (FINAL) ==================================================
+👤 Player 4 (BB) res_pos: 4 | Hand: 5♣ 2♥ | range_idx: 69
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $1716.61
+🃏 Community: 7♠ 6♦ 6♣ 6♥ 7♣
+
+🏁 Final Results:
+  🤖 HJ | Hand: Q♦ J♦ | 🔴 | Profit: $-400.00 | range_idx: 899
+  👤 CO | Hand: 6♠ K♦ | 🔴 | Profit: $-9.77 | range_idx: 1052
+  👤 BTN | Hand: 10♠ 8♣ | 🔴 | Profit: $-400.00 | range_idx: 552
+  👤 SB | Hand: 5♠ 7♦ | 🟢 | Profit: $1316.61 | range_idx: 244
+  👤 BB | Hand: 5♣ 2♥ | 🔴 | Profit: $-400.00 | range_idx: 69
+  👤 UTG | Hand: 8♦ 9♥ | 🔴 | Profit: $-106.84 | range_idx: 491
+============================================================
+
+🎯 Game 300 Action Sequence:
+   🃏 Preflop: UTG(2.1bb) --> HJ(5.0bb) --> CO(12.0bb) --> BTN(fold) --> SB(28.7bb) --> BB(68.0bb) --> UTG(161.4bb) --> HJ(195.0bb) --> CO(all-in) --> SB(all-in) --> BB(all-in) --> UTG(all-in)
+
+🎮 Game 300 (FINAL) ==================================================
+👤 Player 3 (UTG) res_pos: 3 | Hand: K♠ 5♥ | range_idx: 127
+   Action: 38.6bb | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $1989.98
+🃏 Community: J♣ K♦ 2♣ 10♠ 8♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: Q♠ 2♥ | 🔴 | Profit: $-0.00 | range_idx: 145
+  👤 SB | Hand: J♥ A♦ | 🔴 | Profit: $-400.00 | range_idx: 26
+  👤 BB | Hand: 6♠ 9♠ | 🔴 | Profit: $-400.00 | range_idx: 67
+  👤 UTG | Hand: K♠ 5♥ | 🔴 | Profit: $-400.00 | range_idx: 127
+  👤 HJ | Hand: 2♦ K♥ | 🟢 | Profit: $1600.00 | range_idx: 134
+  👤 CO | Hand: 3♠ 4♠ | 🔴 | Profit: $-400.00 | range_idx: 83
+============================================================
+
+Using device: cuda
+DeepCFRAgent models reset successfully.
+learning_agent Loading initial weights from checkpoint: /home/hj/beans/models_batch/selfplay_batch_checkpoint_iter_5.pt
+DeepCFRAgent models reset successfully.
+Loading initial weights from checkpoint: /home/hj/beans/models_batch/gto_preflop_batch_checkpoint_iter_195.pt
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(check)
+   🌊 Flop: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(check)
+   🔄 Turn: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(check)
+   🏁 River: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(check)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 6♦ 10♠ | range_idx: 544
+   Action: check | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $12.00
+🃏 Community: J♦ 5♣ 2♥ Q♠ 7♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 8♠ 7♠ | 🔴 | Profit: $-2.00 | range_idx: 321
+  👤 SB | Hand: 4♦ J♠ | 🔴 | Profit: $-2.00 | range_idx: 674
+  👤 BB | Hand: 6♦ 10♠ | 🔴 | Profit: $-2.00 | range_idx: 544
+  👤 UTG | Hand: 8♦ 6♥ | 🔴 | Profit: $-2.00 | range_idx: 295
+  👤 HJ | Hand: 3♥ 9♠ | 🔴 | Profit: $-2.00 | range_idx: 413
+  👤 CO | Hand: Q♣ 8♣ | 🔴 | Profit: $10.00 | range_idx: 887
+============================================================
+
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(2.1bb) --> HJ(5.0bb) --> CO(12.0bb) --> BTN(28.7bb) --> SB(68.7bb) --> BB(68.7bb) --> UTG(197.9bb) --> HJ(call) --> CO(call) --> BTN(call) --> SB(call) --> BB(call)
+   🌊 Flop: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check) --> BB(fold)
+   🔄 Turn: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check)
+   🏁 River: UTG(check) --> HJ(check) --> CO(check) --> BTN(check) --> SB(check)
+
+🎮 Game 100 (FINAL) ==================================================
+👤 Player 5 (SB) res_pos: 5 | Hand: A♣ Q♥ | range_idx: 1265
+   Action: check | Stake: $4.18 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $2374.91
+🃏 Community: 4♥ 3♣ J♥ 9♠ 3♦
+
+🏁 Final Results:
+  🤖 BB | Hand: 2♥ 5♣ | 🔴 | Profit: $-395.82 | range_idx: 91
+  👤 UTG | Hand: 3♥ 6♣ | 🔴 | Profit: $1979.09 | range_idx: 157
+  👤 HJ | Hand: A♥ 8♣ | 🔴 | Profit: $-395.82 | range_idx: 1154
+  👤 CO | Hand: 4♦ 9♥ | 🔴 | Profit: $-395.82 | range_idx: 389
+  👤 BTN | Hand: 8♠ 10♦ | 🔴 | Profit: $-395.82 | range_idx: 620
+  👤 SB | Hand: A♣ Q♥ | 🔴 | Profit: $-395.82 | range_idx: 1265
+============================================================
+
+Using device: cuda
+Mixed precision training enabled on cuda (new API)
+DeepCFRAgent models reset successfully.
+2025-08-04 15:29:04,519 - PreflopGTOAgent - INFO - 成功加载决策树数据 /home/hj/beans/src/agents/decision_tree.json
+2025-08-04 15:29:04,519 - PreflopGTOAgent - INFO - 决策树包含 1 个根位置
+2025-08-04 15:29:04,519 - PreflopGTOAgent - INFO - DecisionTreeLoader初始化成功
+2025-08-04 15:29:04,519 - PreflopGTOAgent - INFO - 初始化PreflopGTOAgent - 玩家ID: 0, 翻后模式: random
+******************Game 0 evaluate_against_gto_preflop_agents****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 6♥ J♥ | range_idx: 78
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: 5♠ K♦ Q♠ A♥ 10♣
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♣ 2♥ | 🔴 | Profit: $0.00 | range_idx: 153
+  👤 SB | Hand: K♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 19
+  👤 BB | Hand: 6♥ J♥ | 🔴 | Profit: $-2.00 | range_idx: 78
+  👤 UTG | Hand: 2♣ 8♦ | 🔴 | Profit: $0.00 | range_idx: 167
+  👤 HJ | Hand: 6♦ 6♠ | 🔴 | Profit: $3.00 | range_idx: 35
+  👤 CO | Hand: 5♦ 8♠ | 🔴 | Profit: $0.00 | range_idx: 138
+============================================================
+
+******************Game 100 evaluate_against_gto_preflop_agents****************
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(fold)
+
+🎮 Game 100 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: A♦ 9♣ | range_idx: 75
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $11.00
+🃏 Community: K♦ J♥ J♠ 3♥ 6♥
+
+🏁 Final Results:
+  🤖 BB | Hand: A♦ 9♣ | 🔴 | Profit: $-5.00 | range_idx: 75
+  👤 UTG | Hand: 9♦ 6♦ | 🔴 | Profit: $0.00 | range_idx: 67
+  👤 HJ | Hand: 6♣ 8♠ | 🔴 | Profit: $0.00 | range_idx: 125
+  👤 CO | Hand: J♣ 10♦ | 🔴 | Profit: $6.00 | range_idx: 46
+  👤 BTN | Hand: 2♥ 9♥ | 🔴 | Profit: $0.00 | range_idx: 110
+  👤 SB | Hand: 7♣ 4♣ | 🔴 | Profit: $-1.00 | range_idx: 84
+============================================================
+
+******************Game 200 evaluate_against_gto_preflop_agents****************
+🎯 Game 200 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(8.5bb) --> BTN(24.0bb) --> SB(fold) --> BB(fold) --> HJ(call) --> CO(fold)
+   🌊 Flop: HJ(check) --> BTN(176.0bb) --> HJ(call)
+
+🎮 Game 200 (FINAL) ==================================================
+🤖 Player 0 (HJ) res_pos: 2 | Hand: 2♣ 9♦ | range_idx: 165
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $820.00
+🃏 Community: J♦ A♣ A♦ 9♥ 8♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: 2♣ 9♦ | 🔴 | Profit: $-400.00 | range_idx: 165
+  👤 CO | Hand: Q♠ Q♥ | 🔴 | Profit: $-17.00 | range_idx: 2
+  👤 BTN | Hand: K♦ A♥ | 🔴 | Profit: $420.00 | range_idx: 10
+  👤 SB | Hand: 5♣ 5♥ | 🔴 | Profit: $-1.00 | range_idx: 45
+  👤 BB | Hand: 6♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 52
+  👤 UTG | Hand: 3♦ Q♦ | 🔴 | Profit: $0.00 | range_idx: 71
+============================================================
+
+******************Game 300 evaluate_against_gto_preflop_agents****************
+🎯 Game 300 Action Sequence:
+   🃏 Preflop: UTG(2.5bb) --> HJ(fold) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 300 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 3♠ K♠ | range_idx: 58
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: 6♥ 2♦ 4♣ 2♠ 8♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ K♦ | 🔴 | Profit: $0.00 | range_idx: 44
+  👤 SB | Hand: 2♥ 7♦ | 🔴 | Profit: $-1.00 | range_idx: 168
+  👤 BB | Hand: 3♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 58
+  👤 UTG | Hand: Q♠ K♣ | 🔴 | Profit: $3.00 | range_idx: 19
+  👤 HJ | Hand: 4♥ 10♥ | 🔴 | Profit: $0.00 | range_idx: 94
+  👤 CO | Hand: 2♣ Q♣ | 🔴 | Profit: $0.00 | range_idx: 74
+============================================================
+
+******************Game 400 evaluate_against_gto_preflop_agents****************
+🎯 Game 400 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(check) --> BTN(197.5bb) --> BB(fold)
+
+🎮 Game 400 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: 7♥ J♠ | range_idx: 128
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $406.00
+🃏 Community: Q♦ J♣ 10♥ 2♣ 7♦
+
+🏁 Final Results:
+  🤖 BB | Hand: 7♥ J♠ | 🔴 | Profit: $-5.00 | range_idx: 128
+  👤 UTG | Hand: 8♥ 5♥ | 🔴 | Profit: $0.00 | range_idx: 77
+  👤 HJ | Hand: 4♦ A♣ | 🔴 | Profit: $0.00 | range_idx: 103
+  👤 CO | Hand: 9♠ Q♣ | 🔴 | Profit: $0.00 | range_idx: 82
+  👤 BTN | Hand: 10♠ 9♦ | 🔴 | Profit: $6.00 | range_idx: 72
+  👤 SB | Hand: 3♣ 6♦ | 🔴 | Profit: $-1.00 | range_idx: 147
+============================================================
+
+******************Game 479 evaluate_against_gto_preflop_agents****************
+🎯 Game 479 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(call) --> BB(call)
+   🌊 Flop: SB(11.1bb) --> BB(21.2bb) --> CO(176.3bb) --> SB(call) --> BB(call)
+   🔄 Turn: SB(check) --> BB(check) --> CO(check)
+   🏁 River: SB(check) --> BB(check) --> CO(check)
+
+🎮 Game 479 (FINAL) ==================================================
+👤 Player 4 (CO) res_pos: 1 | Hand: 10♠ K♦ | range_idx: 44
+   Action: check | Stake: $42.43 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $1072.70
+🃏 Community: 7♥ A♥ 4♣ 2♣ 7♣
+
+🏁 Final Results:
+  🤖 SB | Hand: 7♦ J♠ | 🔴 | Profit: $715.14 | range_idx: 128
+  👤 BB | Hand: 6♠ 4♠ | 🔴 | Profit: $-357.57 | range_idx: 69
+  👤 UTG | Hand: 6♦ 7♠ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 HJ | Hand: 3♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 132
+  👤 CO | Hand: 10♠ K♦ | 🔴 | Profit: $-357.57 | range_idx: 44
+  👤 BTN | Hand: Q♥ 10♣ | 🔴 | Profit: $0.00 | range_idx: 48
+============================================================
+
+******************Game 500 evaluate_against_gto_preflop_agents****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 4 (BB) res_pos: 4 | Hand: 8♦ 5♥ | range_idx: 138
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $5.00
+🃏 Community: K♠ 2♥ K♥ 7♦ 3♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: K♦ 10♦ | 🔴 | Profit: $3.00 | range_idx: 13
+  👤 CO | Hand: K♣ 2♠ | 🔴 | Profit: $0.00 | range_idx: 134
+  👤 BTN | Hand: 9♦ J♥ | 🔴 | Profit: $0.00 | range_idx: 79
+  👤 SB | Hand: 10♥ A♣ | 🔴 | Profit: $-1.00 | range_idx: 41
+  👤 BB | Hand: 8♦ 5♥ | 🔴 | Profit: $-2.00 | range_idx: 138
+  👤 UTG | Hand: 10♣ 4♠ | 🔴 | Profit: $0.00 | range_idx: 157
+============================================================
+
+******************Game 600 evaluate_against_gto_preflop_agents****************
+🎯 Game 600 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(8.4bb) --> SB(fold) --> BB(fold) --> HJ(fold)
+
+🎮 Game 600 (FINAL) ==================================================
+👤 Player 4 (HJ) res_pos: 2 | Hand: 10♣ K♦ | range_idx: 44
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $24.73
+🃏 Community: 7♣ 6♠ Q♥ 6♥ 9♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♦ K♠ | 🔴 | Profit: $8.00 | range_idx: 131
+  👤 SB | Hand: 2♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 145
+  👤 BB | Hand: A♥ 10♠ | 🔴 | Profit: $-2.00 | range_idx: 41
+  👤 UTG | Hand: J♦ 3♦ | 🔴 | Profit: $0.00 | range_idx: 86
+  👤 HJ | Hand: 10♣ K♦ | 🔴 | Profit: $-5.00 | range_idx: 44
+  👤 CO | Hand: 4♥ K♥ | 🔴 | Profit: $0.00 | range_idx: 57
+============================================================
+
+******************Game 700 evaluate_against_gto_preflop_agents****************
+🎯 Game 700 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(fold)
+
+🎮 Game 700 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: A♥ 7♣ | range_idx: 101
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: J♠ 2♥ 6♥ 9♥ 2♠
+
+🏁 Final Results:
+  🤖 BB | Hand: A♥ 7♣ | 🔴 | Profit: $-2.00 | range_idx: 101
+  👤 UTG | Hand: 6♦ 10♣ | 🔴 | Profit: $0.00 | range_idx: 139
+  👤 HJ | Hand: 4♦ 8♦ | 🔴 | Profit: $0.00 | range_idx: 93
+  👤 CO | Hand: K♥ 7♦ | 🔴 | Profit: $0.00 | range_idx: 121
+  👤 BTN | Hand: Q♠ 4♠ | 🔴 | Profit: $3.00 | range_idx: 70
+  👤 SB | Hand: K♣ 8♥ | 🔴 | Profit: $-1.00 | range_idx: 111
+============================================================
+
+******************Game 800 evaluate_against_gto_preflop_agents****************
+🎯 Game 800 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(3.2bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(12.0bb) --> HJ(call)
+   🌊 Flop: BB(24.5bb) --> HJ(call)
+   🔄 Turn: BB(check) --> HJ(check)
+   🏁 River: BB(1.0bb) --> HJ(call)
+
+🎮 Game 800 (FINAL) ==================================================
+🤖 Player 0 (HJ) res_pos: 2 | Hand: 4♠ Q♠ | range_idx: 70
+   Action: check | Stake: $325.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $151.00
+🃏 Community: J♥ 2♠ 10♦ A♠ 5♥
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♠ Q♠ | 🔴 | Profit: $-75.00 | range_idx: 70
+  👤 CO | Hand: 10♠ 2♦ | 🔴 | Profit: $0.00 | range_idx: 161
+  👤 BTN | Hand: 6♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 124
+  👤 SB | Hand: 3♣ 5♦ | 🔴 | Profit: $-1.00 | range_idx: 137
+  👤 BB | Hand: 9♣ 9♠ | 🔴 | Profit: $76.00 | range_idx: 16
+  👤 UTG | Hand: 2♥ 8♣ | 🔴 | Profit: $0.00 | range_idx: 167
+============================================================
+
+******************Game 900 evaluate_against_gto_preflop_agents****************
+🎯 Game 900 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(check) --> SB(check) --> BB(fold)
+   🌊 Flop: SB(check) --> BTN(check)
+   🔄 Turn: SB(check) --> BTN(fold)
+
+🎮 Game 900 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 10♣ 10♥ | range_idx: 9
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $6.00
+🃏 Community: Q♥ 10♠ 7♣ K♠ 6♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ 10♥ | 🔴 | Profit: $-2.00 | range_idx: 9
+  👤 SB | Hand: 10♦ A♣ | 🔴 | Profit: $4.00 | range_idx: 41
+  👤 BB | Hand: 5♣ 2♠ | 🔴 | Profit: $-2.00 | range_idx: 150
+  👤 UTG | Hand: 7♥ 5♠ | 🔴 | Profit: $0.00 | range_idx: 129
+  👤 HJ | Hand: J♥ 2♦ | 🔴 | Profit: $0.00 | range_idx: 154
+  👤 CO | Hand: 2♥ 8♥ | 🔴 | Profit: $0.00 | range_idx: 117
+============================================================
+
+Final performance vs GTO preflop: Average profit per game: -32.52
+Initial evaluation...
+******************Game 0 completed random agent****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(2.0bb) --> HJ(fold) --> CO(fold) --> BTN(call) --> SB(3.0bb) --> BB(fold) --> UTG(call) --> BTN(fold)
+   🌊 Flop: SB(4.1bb) --> UTG(call)
+   🔄 Turn: SB(check) --> UTG(11.8bb) --> SB(22.6bb) --> UTG(call)
+   🏁 River: SB(20.9bb) --> UTG(call)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 3 (UTG) res_pos: 3 | Hand: 5♣ Q♦ | range_idx: 140
+   Action: check | Stake: $298.82 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $208.36
+🃏 Community: 10♣ 4♦ 7♠ 5♦ J♥
+
+🏁 Final Results:
+  🤖 BTN | Hand: K♠ 8♦ | 🔴 | Profit: $-4.00 | range_idx: 111
+  👤 SB | Hand: 3♠ 4♥ | 🔴 | Profit: $-101.18 | range_idx: 141
+  👤 BB | Hand: 7♣ J♦ | 🔴 | Profit: $-2.00 | range_idx: 128
+  👤 UTG | Hand: 5♣ Q♦ | 🔴 | Profit: $107.18 | range_idx: 140
+  👤 HJ | Hand: 6♥ Q♣ | 🔴 | Profit: $0.00 | range_idx: 136
+  👤 CO | Hand: 10♦ 9♣ | 🔴 | Profit: $0.00 | range_idx: 72
+============================================================
+
+******************Game 250 completed random agent****************
+🎯 Game 250 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(2.0bb) --> SB(fold) --> BB(call) --> HJ(call)
+   🌊 Flop: BB(check) --> HJ(2.3bb) --> BTN(5.8bb) --> BB(call) --> HJ(10.6bb) --> BTN(call) --> BB(call)
+   🔄 Turn: BB(check) --> HJ(14.6bb) --> BTN(call) --> BB(call)
+   🏁 River: BB(check) --> HJ(check) --> BTN(check)
+
+🎮 Game 250 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: 7♥ J♠ | range_idx: 128
+   Action: check | Stake: $345.58 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $164.26
+🃏 Community: 5♥ 9♠ Q♠ 8♥ K♠
+
+🏁 Final Results:
+  🤖 BB | Hand: J♣ 3♦ | 🔴 | Profit: $-54.42 | range_idx: 152
+  👤 UTG | Hand: 3♠ 9♣ | 🔴 | Profit: $0.00 | range_idx: 164
+  👤 HJ | Hand: K♥ A♠ | 🔴 | Profit: $109.84 | range_idx: 10
+  👤 CO | Hand: 4♦ K♦ | 🔴 | Profit: $0.00 | range_idx: 57
+  👤 BTN | Hand: 7♥ J♠ | 🔴 | Profit: $-54.42 | range_idx: 128
+  👤 SB | Hand: 3♥ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 143
+============================================================
+
+******************Game 500 completed random agent****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(check) --> SB(2.0bb) --> BB(3.0bb) --> BTN(call) --> SB(5.3bb) --> BB(fold) --> BTN(fold)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 2 (BTN) res_pos: 0 | Hand: 9♥ 10♣ | range_idx: 72
+   Action: fold | Stake: $394.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $22.58
+🃏 Community: 5♦ 7♣ 5♥ 6♦ 8♣
+
+🏁 Final Results:
+  🤖 HJ | Hand: 7♥ 3♠ | 🔴 | Profit: $0.00 | range_idx: 160
+  👤 CO | Hand: 10♦ 3♣ | 🔴 | Profit: $0.00 | range_idx: 159
+  👤 BTN | Hand: 9♥ 10♣ | 🔴 | Profit: $-6.00 | range_idx: 72
+  👤 SB | Hand: K♥ 7♦ | 🔴 | Profit: $12.00 | range_idx: 121
+  👤 BB | Hand: 3♦ 5♣ | 🔴 | Profit: $-6.00 | range_idx: 137
+  👤 UTG | Hand: Q♦ 3♥ | 🔴 | Profit: $0.00 | range_idx: 143
+============================================================
+
+******************Game 750 completed random agent****************
+🎯 Game 750 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(2.0bb) --> BTN(fold) --> SB(fold) --> BB(fold) --> HJ(fold)
+
+🎮 Game 750 (FINAL) ==================================================
+👤 Player 4 (HJ) res_pos: 2 | Hand: 7♣ 10♣ | range_idx: 56
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $9.00
+🃏 Community: 7♠ 7♥ 5♠ 2♠ Q♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: Q♥ 7♦ | 🔴 | Profit: $0.00 | range_idx: 130
+  👤 SB | Hand: 8♥ K♥ | 🔴 | Profit: $-1.00 | range_idx: 36
+  👤 BB | Hand: 9♣ 5♣ | 🔴 | Profit: $-2.00 | range_idx: 87
+  👤 UTG | Hand: J♣ 6♥ | 🔴 | Profit: $0.00 | range_idx: 146
+  👤 HJ | Hand: 7♣ 10♣ | 🔴 | Profit: $-2.00 | range_idx: 56
+  👤 CO | Hand: 9♦ 5♦ | 🔴 | Profit: $5.00 | range_idx: 87
+============================================================
+
+Initial average profit vs random: -15.77
+GTO preflop training iteration 1/101000
+  Collecting data with batching...
+    Progress: 512/5120 traversals completed, 0 active tasks adv size size: 25533 strategy size: 8511
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/5120 traversals completed, 0 active tasks adv size size: 52242 strategy size: 17414
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/5120 traversals completed, 0 active tasks adv size size: 77370 strategy size: 25790
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/5120 traversals completed, 0 active tasks adv size size: 103392 strategy size: 34464
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/5120 traversals completed, 0 active tasks adv size size: 128772 strategy size: 42924
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/5120 traversals completed, 0 active tasks adv size size: 152928 strategy size: 50976
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/5120 traversals completed, 0 active tasks adv size size: 179373 strategy size: 59791
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/5120 traversals completed, 0 active tasks adv size size: 204915 strategy size: 68305
+WARNING: No checkpoint files found in models_batch
+    Progress: 4608/5120 traversals completed, 0 active tasks adv size size: 230811 strategy size: 76937
+WARNING: No checkpoint files found in models_batch
+    Progress: 5120/5120 traversals completed, 0 active tasks adv size size: 256617 strategy size: 85539
+WARNING: No checkpoint files found in models_batch
+    Completed 5120/5120 traversals advantage size: 256617 strategy size: 85539 time taken: 159.60 seconds
+  Data collection completed in 159.60 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 60.689449 at epoch 0
+[BEST-MODEL] New best advantage loss: 22.561014 at epoch 1
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 13
+[LR-SCHEDULER] Current patience counter: 11/40
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 24
+[LR-SCHEDULER] Current patience counter: 22/40
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 35
+[LR-SCHEDULER] Current patience counter: 33/40
+[EARLY-STOP] Advantage network training stopped early at epoch 42/30000 restoring best model to epoch 1 loss: 22.561014.
+  Advantage network loss: 22.561014
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 756.691528
+[BEST-MODEL] New best strategy loss: 756.691528 at epoch 0
+[BEST-MODEL] New best strategy loss: 732.769989 at epoch 4
+[BEST-MODEL] New best strategy loss: 617.491394 at epoch 10
+[BEST-MODEL] New best strategy loss: 420.715851 at epoch 11
+[BEST-MODEL] New best strategy loss: 389.120453 at epoch 12
+[BEST-MODEL] New best strategy loss: 376.143021 at epoch 13
+[BEST-MODEL] New best strategy loss: 344.246948 at epoch 14
+Traceback (most recent call last):
+  File "/home/hj/beans/train_against_gto_preflop_batch.py", line 994, in <module>
+    train_against_gto_preflop_batch(
+  File "/home/hj/beans/train_against_gto_preflop_batch.py", line 943, in train_against_gto_preflop_batch
+    strat_loss = learning_agent.train_strategy_network()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/deep_cfr.py", line 1162, in train_strategy_network
+    action_logits, bet_size_preds = self.strategy_net(
+                                    ^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/improved_model.py", line 328, in forward
+    action_seq_features = self.action_transformer(action_sequence)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/improved_model.py", line 66, in forward
+    transformed = self.transformer(embedded)  # (batch_size, seq_len, hidden_size)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 514, in forward
+    output = mod(
+             ^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 916, in forward
+    x = self.norm2(x + self._ff_block(x))
+                       ^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 941, in _ff_block
+    x = self.linear2(self.dropout(self.activation(self.linear1(x))))
+                                                  ^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 62.00 MiB. GPU 0 has a total capacity of 7.62 GiB of which 46.25 MiB is free. Process 63014 has 128.31 MiB memory in use. Including non-PyTorch memory, this process has 7.23 GiB memory in use. Of the allocated memory 6.97 GiB is allocated by PyTorch, and 91.93 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Using device: cuda
+Mixed precision training enabled on cuda (new API)
+DeepCFRAgent models reset successfully.
+2025-08-04 15:36:52,834 - PreflopGTOAgent - INFO - 成功加载决策树数据 /home/hj/beans/src/agents/decision_tree.json
+2025-08-04 15:36:52,834 - PreflopGTOAgent - INFO - 决策树包含 1 个根位置
+2025-08-04 15:36:52,834 - PreflopGTOAgent - INFO - DecisionTreeLoader初始化成功
+2025-08-04 15:36:52,834 - PreflopGTOAgent - INFO - 初始化PreflopGTOAgent - 玩家ID: 0, 翻后模式: random
+******************Game 0 evaluate_against_gto_preflop_agents****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(4.0bb) --> SB(fold) --> BB(fold) --> HJ(call)
+   🌊 Flop: HJ(196.0bb) --> BTN(call)
+
+🎮 Game 0 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 4♣ 2♥ | range_idx: 153
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $803.00
+🃏 Community: 5♠ K♦ Q♠ A♥ 10♣
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♣ 2♥ | 🔴 | Profit: $-400.00 | range_idx: 153
+  👤 SB | Hand: K♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 19
+  👤 BB | Hand: 6♥ J♥ | 🔴 | Profit: $-2.00 | range_idx: 78
+  👤 UTG | Hand: 2♣ 8♦ | 🔴 | Profit: $0.00 | range_idx: 167
+  👤 HJ | Hand: 6♦ 6♠ | 🔴 | Profit: $403.00 | range_idx: 35
+  👤 CO | Hand: 5♦ 8♠ | 🔴 | Profit: $0.00 | range_idx: 138
+============================================================
+
+******************Game 100 evaluate_against_gto_preflop_agents****************
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(4.0bb) --> CO(fold)
+
+🎮 Game 100 (FINAL) ==================================================
+👤 Player 3 (CO) res_pos: 1 | Hand: J♣ 10♦ | range_idx: 46
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $14.00
+🃏 Community: K♦ J♥ J♠ 3♥ 6♥
+
+🏁 Final Results:
+  🤖 BB | Hand: A♦ 9♣ | 🔴 | Profit: $6.00 | range_idx: 75
+  👤 UTG | Hand: 9♦ 6♦ | 🔴 | Profit: $0.00 | range_idx: 67
+  👤 HJ | Hand: 6♣ 8♠ | 🔴 | Profit: $0.00 | range_idx: 125
+  👤 CO | Hand: J♣ 10♦ | 🔴 | Profit: $-5.00 | range_idx: 46
+  👤 BTN | Hand: 2♥ 9♥ | 🔴 | Profit: $0.00 | range_idx: 110
+  👤 SB | Hand: 7♣ 4♣ | 🔴 | Profit: $-1.00 | range_idx: 84
+============================================================
+
+******************Game 200 evaluate_against_gto_preflop_agents****************
+🎯 Game 200 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(check) --> BTN(10.0bb) --> SB(fold) --> BB(fold) --> HJ(fold) --> CO(call)
+   🌊 Flop: CO(1.0bb) --> BTN(call)
+   🔄 Turn: CO(12.2bb) --> BTN(call)
+   🏁 River: CO(1.0bb) --> BTN(50.0bb) --> CO(call)
+
+🎮 Game 200 (FINAL) ==================================================
+👤 Player 1 (CO) res_pos: 1 | Hand: Q♠ Q♥ | range_idx: 2
+   Action: check | Stake: $253.50 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $298.00
+🃏 Community: J♦ A♣ A♦ 9♥ 8♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: 2♣ 9♦ | 🔴 | Profit: $-2.00 | range_idx: 165
+  👤 CO | Hand: Q♠ Q♥ | 🔴 | Profit: $-146.50 | range_idx: 2
+  👤 BTN | Hand: K♦ A♥ | 🔴 | Profit: $151.50 | range_idx: 10
+  👤 SB | Hand: 5♣ 5♥ | 🔴 | Profit: $-1.00 | range_idx: 45
+  👤 BB | Hand: 6♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 52
+  👤 UTG | Hand: 3♦ Q♦ | 🔴 | Profit: $0.00 | range_idx: 71
+============================================================
+
+******************Game 300 evaluate_against_gto_preflop_agents****************
+🎯 Game 300 Action Sequence:
+   🃏 Preflop: UTG(2.5bb) --> HJ(fold) --> CO(fold) --> BTN(call) --> SB(fold) --> BB(fold)
+   🌊 Flop: UTG(check) --> BTN(check)
+   🔄 Turn: UTG(6.5bb) --> BTN(call)
+   🏁 River: UTG(check) --> BTN(22.6bb) --> UTG(168.4bb) --> BTN(191.0bb) --> UTG(call)
+
+🎮 Game 300 (FINAL) ==================================================
+👤 Player 3 (UTG) res_pos: 3 | Hand: Q♠ K♣ | range_idx: 19
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $803.00
+🃏 Community: 6♥ 2♦ 4♣ 2♠ 8♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ K♦ | 🔴 | Profit: $-400.00 | range_idx: 44
+  👤 SB | Hand: 2♥ 7♦ | 🔴 | Profit: $-1.00 | range_idx: 168
+  👤 BB | Hand: 3♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 58
+  👤 UTG | Hand: Q♠ K♣ | 🔴 | Profit: $403.00 | range_idx: 19
+  👤 HJ | Hand: 4♥ 10♥ | 🔴 | Profit: $0.00 | range_idx: 94
+  👤 CO | Hand: 2♣ Q♣ | 🔴 | Profit: $0.00 | range_idx: 74
+============================================================
+
+******************Game 400 evaluate_against_gto_preflop_agents****************
+🎯 Game 400 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(fold)
+
+🎮 Game 400 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: 7♥ J♠ | range_idx: 128
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $11.00
+🃏 Community: Q♦ J♣ 10♥ 2♣ 7♦
+
+🏁 Final Results:
+  🤖 BB | Hand: 7♥ J♠ | 🔴 | Profit: $-5.00 | range_idx: 128
+  👤 UTG | Hand: 8♥ 5♥ | 🔴 | Profit: $0.00 | range_idx: 77
+  👤 HJ | Hand: 4♦ A♣ | 🔴 | Profit: $0.00 | range_idx: 103
+  👤 CO | Hand: 9♠ Q♣ | 🔴 | Profit: $0.00 | range_idx: 82
+  👤 BTN | Hand: 10♠ 9♦ | 🔴 | Profit: $6.00 | range_idx: 72
+  👤 SB | Hand: 3♣ 6♦ | 🔴 | Profit: $-1.00 | range_idx: 147
+============================================================
+
+******************Game 479 evaluate_against_gto_preflop_agents****************
+🎯 Game 479 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(call) --> BB(call)
+   🌊 Flop: SB(fold) --> BB(check) --> CO(1.0bb) --> BB(call)
+   🔄 Turn: BB(check) --> CO(check)
+   🏁 River: BB(9.5bb) --> CO(call)
+
+🎮 Game 479 (FINAL) ==================================================
+👤 Player 4 (CO) res_pos: 1 | Hand: 10♠ K♦ | range_idx: 44
+   Action: check | Stake: $374.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $57.00
+🃏 Community: 7♥ A♥ 4♣ 2♣ 7♣
+
+🏁 Final Results:
+  🤖 SB | Hand: 7♦ J♠ | 🔴 | Profit: $-5.00 | range_idx: 128
+  👤 BB | Hand: 6♠ 4♠ | 🔴 | Profit: $31.00 | range_idx: 69
+  👤 UTG | Hand: 6♦ 7♠ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 HJ | Hand: 3♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 132
+  👤 CO | Hand: 10♠ K♦ | 🔴 | Profit: $-26.00 | range_idx: 44
+  👤 BTN | Hand: Q♥ 10♣ | 🔴 | Profit: $0.00 | range_idx: 48
+============================================================
+
+******************Game 500 evaluate_against_gto_preflop_agents****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.0bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 4 (BB) res_pos: 4 | Hand: 8♦ 5♥ | range_idx: 138
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $7.00
+🃏 Community: K♠ 2♥ K♥ 7♦ 3♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: K♦ 10♦ | 🔴 | Profit: $3.00 | range_idx: 13
+  👤 CO | Hand: K♣ 2♠ | 🔴 | Profit: $0.00 | range_idx: 134
+  👤 BTN | Hand: 9♦ J♥ | 🔴 | Profit: $0.00 | range_idx: 79
+  👤 SB | Hand: 10♥ A♣ | 🔴 | Profit: $-1.00 | range_idx: 41
+  👤 BB | Hand: 8♦ 5♥ | 🔴 | Profit: $-2.00 | range_idx: 138
+  👤 UTG | Hand: 10♣ 4♠ | 🔴 | Profit: $0.00 | range_idx: 157
+============================================================
+
+******************Game 600 evaluate_against_gto_preflop_agents****************
+🎯 Game 600 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(4.4bb) --> SB(fold) --> BB(fold) --> CO(fold)
+
+🎮 Game 600 (FINAL) ==================================================
+👤 Player 5 (CO) res_pos: 1 | Hand: 4♥ K♥ | range_idx: 57
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $16.86
+🃏 Community: 7♣ 6♠ Q♥ 6♥ 9♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♦ K♠ | 🔴 | Profit: $8.00 | range_idx: 131
+  👤 SB | Hand: 2♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 145
+  👤 BB | Hand: A♥ 10♠ | 🔴 | Profit: $-2.00 | range_idx: 41
+  👤 UTG | Hand: J♦ 3♦ | 🔴 | Profit: $0.00 | range_idx: 86
+  👤 HJ | Hand: 10♣ K♦ | 🔴 | Profit: $0.00 | range_idx: 44
+  👤 CO | Hand: 4♥ K♥ | 🔴 | Profit: $-5.00 | range_idx: 57
+============================================================
+
+******************Game 700 evaluate_against_gto_preflop_agents****************
+🎯 Game 700 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(4.8bb) --> BTN(fold)
+
+🎮 Game 700 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: Q♠ 4♠ | range_idx: 70
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $15.66
+🃏 Community: J♠ 2♥ 6♥ 9♥ 2♠
+
+🏁 Final Results:
+  🤖 BB | Hand: A♥ 7♣ | 🔴 | Profit: $6.00 | range_idx: 101
+  👤 UTG | Hand: 6♦ 10♣ | 🔴 | Profit: $0.00 | range_idx: 139
+  👤 HJ | Hand: 4♦ 8♦ | 🔴 | Profit: $0.00 | range_idx: 93
+  👤 CO | Hand: K♥ 7♦ | 🔴 | Profit: $0.00 | range_idx: 121
+  👤 BTN | Hand: Q♠ 4♠ | 🔴 | Profit: $-5.00 | range_idx: 70
+  👤 SB | Hand: K♣ 8♥ | 🔴 | Profit: $-1.00 | range_idx: 111
+============================================================
+
+******************Game 800 evaluate_against_gto_preflop_agents****************
+🎯 Game 800 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(12.0bb) --> HJ(23.0bb) --> BB(call)
+   🌊 Flop: BB(177.0bb) --> HJ(fold)
+
+🎮 Game 800 (FINAL) ==================================================
+🤖 Player 0 (HJ) res_pos: 2 | Hand: 4♠ Q♠ | range_idx: 70
+   Action: fold | Stake: $354.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $447.00
+🃏 Community: J♥ 2♠ 10♦ A♠ 5♥
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♠ Q♠ | 🔴 | Profit: $-46.00 | range_idx: 70
+  👤 CO | Hand: 10♠ 2♦ | 🔴 | Profit: $0.00 | range_idx: 161
+  👤 BTN | Hand: 6♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 124
+  👤 SB | Hand: 3♣ 5♦ | 🔴 | Profit: $-1.00 | range_idx: 137
+  👤 BB | Hand: 9♣ 9♠ | 🔴 | Profit: $47.00 | range_idx: 16
+  👤 UTG | Hand: 2♥ 8♣ | 🔴 | Profit: $0.00 | range_idx: 167
+============================================================
+
+******************Game 900 evaluate_against_gto_preflop_agents****************
+🎯 Game 900 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(check) --> SB(check) --> BB(fold)
+   🌊 Flop: SB(1.0bb) --> BTN(fold)
+
+🎮 Game 900 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 10♣ 10♥ | range_idx: 9
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: Q♥ 10♠ 7♣ K♠ 6♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ 10♥ | 🔴 | Profit: $-2.00 | range_idx: 9
+  👤 SB | Hand: 10♦ A♣ | 🔴 | Profit: $4.00 | range_idx: 41
+  👤 BB | Hand: 5♣ 2♠ | 🔴 | Profit: $-2.00 | range_idx: 150
+  👤 UTG | Hand: 7♥ 5♠ | 🔴 | Profit: $0.00 | range_idx: 129
+  👤 HJ | Hand: J♥ 2♦ | 🔴 | Profit: $0.00 | range_idx: 154
+  👤 CO | Hand: 2♥ 8♥ | 🔴 | Profit: $0.00 | range_idx: 117
+============================================================
+
+Final performance vs GTO preflop: Average profit per game: -22.58
+Initial evaluation...
+******************Game 0 completed random agent****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.0bb) --> CO(3.0bb) --> BTN(7.1bb) --> SB(fold) --> BB(fold) --> HJ(13.2bb) --> CO(fold) --> BTN(25.5bb) --> HJ(call)
+   🌊 Flop: HJ(check) --> BTN(49.5bb) --> HJ(call)
+   🔄 Turn: HJ(69.0bb) --> BTN(call)
+   🏁 River: HJ(56.0bb) --> BTN(fold)
+
+🎮 Game 0 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: Q♠ 4♠ | range_idx: 70
+   Action: fold | Stake: $112.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $697.00
+🃏 Community: K♦ 3♣ K♥ K♠ 3♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: Q♠ 4♠ | 🔴 | Profit: $-288.00 | range_idx: 70
+  👤 SB | Hand: 3♥ 5♦ | 🔴 | Profit: $-1.00 | range_idx: 137
+  👤 BB | Hand: 9♥ 5♥ | 🔴 | Profit: $-2.00 | range_idx: 87
+  👤 UTG | Hand: 2♠ 4♦ | 🔴 | Profit: $0.00 | range_idx: 153
+  👤 HJ | Hand: A♥ J♦ | 🔴 | Profit: $297.00 | range_idx: 26
+  👤 CO | Hand: 5♣ Q♦ | 🔴 | Profit: $-6.00 | range_idx: 140
+============================================================
+
+******************Game 250 completed random agent****************
+🎯 Game 250 Action Sequence:
+   🃏 Preflop: UTG(2.0bb) --> HJ(fold) --> CO(call) --> BTN(fold) --> SB(fold) --> BB(fold)
+   🌊 Flop: UTG(check) --> CO(3.9bb) --> UTG(call)
+   🔄 Turn: UTG(9.3bb) --> CO(17.5bb) --> UTG(call)
+   🏁 River: UTG(check) --> CO(18.7bb) --> UTG(call)
+
+🎮 Game 250 (FINAL) ==================================================
+👤 Player 1 (UTG) res_pos: 3 | Hand: 3♣ 10♦ | range_idx: 159
+   Action: check | Stake: $315.75 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $171.50
+🃏 Community: K♠ 3♥ 9♠ 2♥ 8♣
+
+🏁 Final Results:
+  🤖 BB | Hand: 6♠ Q♥ | 🔴 | Profit: $-2.00 | range_idx: 136
+  👤 UTG | Hand: 3♣ 10♦ | 🔴 | Profit: $87.25 | range_idx: 159
+  👤 HJ | Hand: 2♦ 6♣ | 🔴 | Profit: $0.00 | range_idx: 162
+  👤 CO | Hand: Q♣ A♣ | 🔴 | Profit: $-84.25 | range_idx: 5
+  👤 BTN | Hand: A♦ K♣ | 🔴 | Profit: $0.00 | range_idx: 10
+  👤 SB | Hand: 2♠ 4♠ | 🔴 | Profit: $-1.00 | range_idx: 96
+============================================================
+
+******************Game 500 completed random agent****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(2.0bb) --> BTN(call) --> SB(call) --> BB(fold) --> HJ(7.3bb) --> CO(fold) --> BTN(call) --> SB(call)
+   🌊 Flop: SB(check) --> HJ(check) --> BTN(check)
+   🔄 Turn: SB(check) --> HJ(check) --> BTN(8.7bb) --> SB(16.5bb) --> HJ(call) --> BTN(32.0bb) --> SB(call) --> HJ(call)
+   🏁 River: SB(66.4bb) --> HJ(fold) --> BTN(131.8bb) --> SB(160.7bb) --> BTN(call)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 2 (BTN) res_pos: 0 | Hand: 5♥ 10♣ | range_idx: 156
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $884.52
+🃏 Community: 10♠ Q♣ A♦ 3♦ 3♠
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♥ K♠ | 🔴 | Profit: $-78.52 | range_idx: 131
+  👤 CO | Hand: K♣ K♥ | 🔴 | Profit: $-4.00 | range_idx: 1
+  👤 BTN | Hand: 5♥ 10♣ | 🔴 | Profit: $-400.00 | range_idx: 156
+  👤 SB | Hand: A♣ A♥ | 🔴 | Profit: $484.52 | range_idx: 0
+  👤 BB | Hand: 2♠ 5♦ | 🔴 | Profit: $-2.00 | range_idx: 150
+  👤 UTG | Hand: 6♣ Q♦ | 🔴 | Profit: $0.00 | range_idx: 136
+============================================================
+
+******************Game 750 completed random agent****************
+🎯 Game 750 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.0bb) --> SB(call) --> BB(fold)
+   🌊 Flop: SB(3.4bb) --> BTN(fold)
+
+🎮 Game 750 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: A♣ 3♥ | range_idx: 108
+   Action: fold | Stake: $396.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $16.71
+🃏 Community: A♠ 8♥ A♦ 6♠ K♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: A♣ 3♥ | 🔴 | Profit: $-4.00 | range_idx: 108
+  👤 SB | Hand: 6♦ Q♥ | 🔴 | Profit: $6.00 | range_idx: 136
+  👤 BB | Hand: 6♣ 7♦ | 🔴 | Profit: $-2.00 | range_idx: 120
+  👤 UTG | Hand: 3♣ 4♣ | 🔴 | Profit: $0.00 | range_idx: 83
+  👤 HJ | Hand: K♥ K♦ | 🔴 | Profit: $0.00 | range_idx: 1
+  👤 CO | Hand: J♣ 5♠ | 🔴 | Profit: $0.00 | range_idx: 148
+============================================================
+
+Initial average profit vs random: -7.41
+GTO preflop training iteration 1/101000
+  Collecting data with batching...
+    Progress: 512/512 traversals completed, 0 active tasks adv size size: 35805 strategy size: 11935
+WARNING: No checkpoint files found in models_batch
+    Completed 512/512 traversals advantage size: 35805 strategy size: 11935 time taken: 22.88 seconds
+  Data collection completed in 22.88 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 74.493477 at epoch 0
+[BEST-MODEL] New best advantage loss: 71.642086 at epoch 3
+[BEST-MODEL] New best advantage loss: 45.649058 at epoch 4
+[BEST-MODEL] New best advantage loss: 45.195678 at epoch 5
+[BEST-MODEL] New best advantage loss: 45.109907 at epoch 11
+[BEST-MODEL] New best advantage loss: 19.641727 at epoch 12
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 24
+[LR-SCHEDULER] Current patience counter: 11/40
+[BEST-MODEL] New best advantage loss: 19.625105 at epoch 26
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 38
+[LR-SCHEDULER] Current patience counter: 11/40
+[BEST-MODEL] New best advantage loss: 19.172865 at epoch 41
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 53
+[LR-SCHEDULER] Current patience counter: 11/40
+[BEST-MODEL] New best advantage loss: 18.783216 at epoch 57
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 69
+[LR-SCHEDULER] Current patience counter: 11/40
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 80
+[LR-SCHEDULER] Current patience counter: 22/40
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 91
+[LR-SCHEDULER] Current patience counter: 33/40
+[EARLY-STOP] Advantage network training stopped early at epoch 98/30000 restoring best model to epoch 57 loss: 18.783216.
+  Advantage network loss: 18.783216
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 565.502991
+[BEST-MODEL] New best strategy loss: 565.502991 at epoch 0
+Traceback (most recent call last):
+  File "/home/hj/beans/train_against_gto_preflop_batch.py", line 994, in <module>
+    train_against_gto_preflop_batch(
+  File "/home/hj/beans/train_against_gto_preflop_batch.py", line 943, in train_against_gto_preflop_batch
+    strat_loss = learning_agent.train_strategy_network()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/deep_cfr.py", line 1162, in train_strategy_network
+    action_logits, bet_size_preds = self.strategy_net(
+                                    ^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/improved_model.py", line 328, in forward
+    action_seq_features = self.action_transformer(action_sequence)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/beans/src/core/improved_model.py", line 66, in forward
+    transformed = self.transformer(embedded)  # (batch_size, seq_len, hidden_size)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 514, in forward
+    output = mod(
+             ^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 916, in forward
+    x = self.norm2(x + self._ff_block(x))
+                       ^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/transformer.py", line 942, in _ff_block
+    return self.dropout2(x)
+           ^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/modules/dropout.py", line 70, in forward
+    return F.dropout(input, self.p, self.training, self.inplace)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/hj/py311/lib/python3.11/site-packages/torch/nn/functional.py", line 1425, in dropout
+    _VF.dropout_(input, p, training) if inplace else _VF.dropout(input, p, training)
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 36.00 MiB. GPU 0 has a total capacity of 7.62 GiB of which 34.25 MiB is free. Process 63014 has 128.31 MiB memory in use. Including non-PyTorch memory, this process has 7.24 GiB memory in use. Of the allocated memory 7.05 GiB is allocated by PyTorch, and 27.75 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Using device: cuda
+Mixed precision training enabled on cuda (new API)
+DeepCFRAgent models reset successfully.
+2025-08-04 15:43:18,859 - PreflopGTOAgent - INFO - 成功加载决策树数据 /home/hj/beans/src/agents/decision_tree.json
+2025-08-04 15:43:18,859 - PreflopGTOAgent - INFO - 决策树包含 1 个根位置
+2025-08-04 15:43:18,859 - PreflopGTOAgent - INFO - DecisionTreeLoader初始化成功
+2025-08-04 15:43:18,859 - PreflopGTOAgent - INFO - 初始化PreflopGTOAgent - 玩家ID: 0, 翻后模式: random
+GTO preflop training iteration 1/101000
+  Collecting data with batching...
+    Progress: 512/512 traversals completed, 0 active tasks adv size size: 28602 strategy size: 9534
+WARNING: No checkpoint files found in models_batch
+    Completed 512/512 traversals advantage size: 28602 strategy size: 9534 time taken: 17.93 seconds
+  Data collection completed in 17.93 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 45.179279 at epoch 0
+Using device: cuda
+Mixed precision training enabled on cuda (new API)
+DeepCFRAgent models reset successfully.
+2025-08-04 15:44:46,720 - PreflopGTOAgent - INFO - 成功加载决策树数据 /home/hj/beans/src/agents/decision_tree.json
+2025-08-04 15:44:46,720 - PreflopGTOAgent - INFO - 决策树包含 1 个根位置
+2025-08-04 15:44:46,720 - PreflopGTOAgent - INFO - DecisionTreeLoader初始化成功
+2025-08-04 15:44:46,720 - PreflopGTOAgent - INFO - 初始化PreflopGTOAgent - 玩家ID: 0, 翻后模式: random
+GTO preflop training iteration 1/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 24819 strategy size: 8273
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 48444 strategy size: 16148
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 72153 strategy size: 24051
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 97311 strategy size: 32437
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 120651 strategy size: 40217
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 145395 strategy size: 48465
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 170319 strategy size: 56773
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 195672 strategy size: 65224
+WARNING: No checkpoint files found in models_batch
+    Completed 4096/4096 traversals advantage size: 195672 strategy size: 65224 time taken: 121.44 seconds
+  Data collection completed in 121.44 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 50.260463 at epoch 0
+[BEST-MODEL] New best advantage loss: 48.528264 at epoch 1
+[BEST-MODEL] New best advantage loss: 38.989484 at epoch 8
+[BEST-MODEL] New best advantage loss: 29.935172 at epoch 13
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 25
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 36
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best advantage loss: 17.977665 at epoch 36
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 48
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 59
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best advantage loss: 17.840238 at epoch 61
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 73
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 84
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 95
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.10e-05 to 1.68e-05 at epoch 106
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.68e-05 to 1.34e-05 at epoch 117
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Advantage network training stopped early at epoch 122/30000 restoring best model to epoch 61 loss: 17.840238.
+  Advantage network loss: 17.840238
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 505.018036
+[BEST-MODEL] New best strategy loss: 505.018036 at epoch 0
+[BEST-MODEL] New best strategy loss: 499.194473 at epoch 1
+[BEST-MODEL] New best strategy loss: 489.734406 at epoch 2
+[BEST-MODEL] New best strategy loss: 423.761139 at epoch 8
+[BEST-MODEL] New best strategy loss: 337.045258 at epoch 9
+[BEST-MODEL] New best strategy loss: 293.688126 at epoch 10
+[BEST-MODEL] New best strategy loss: 289.700180 at epoch 13
+[BEST-MODEL] New best strategy loss: 286.125183 at epoch 14
+[BEST-MODEL] New best strategy loss: 283.013382 at epoch 16
+[BEST-MODEL] New best strategy loss: 278.205612 at epoch 17
+[BEST-MODEL] New best strategy loss: 273.483124 at epoch 20
+[BEST-MODEL] New best strategy loss: 270.475388 at epoch 22
+[BEST-MODEL] New best strategy loss: 267.985184 at epoch 31
+[BEST-MODEL] New best strategy loss: 266.051453 at epoch 36
+[BEST-MODEL] New best strategy loss: 264.479538 at epoch 45
+[BEST-MODEL] New best strategy loss: 263.676468 at epoch 46
+[BEST-MODEL] New best strategy loss: 263.626297 at epoch 48
+[BEST-MODEL] New best strategy loss: 262.933731 at epoch 49
+[BEST-MODEL] New best strategy loss: 259.756180 at epoch 51
+[BEST-MODEL] New best strategy loss: 258.529251 at epoch 57
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 69
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 255.085861 at epoch 69
+[BEST-MODEL] New best strategy loss: 252.846092 at epoch 72
+[BEST-MODEL] New best strategy loss: 252.401329 at epoch 78
+[BEST-MODEL] New best strategy loss: 249.984352 at epoch 86
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 98
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 245.079155 at epoch 99
+[EPOCH 101/3000000] Strategy loss: 259.322395
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 111
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 122
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 133
+[LR-SCHEDULER] Current patience counter: 33/60
+[BEST-MODEL] New best strategy loss: 242.492706 at epoch 140
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 152
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 241.048706 at epoch 158
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 170
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.10e-05 to 1.68e-05 at epoch 181
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.68e-05 to 1.34e-05 at epoch 192
+[LR-SCHEDULER] Current patience counter: 33/60
+[BEST-MODEL] New best strategy loss: 241.025406 at epoch 197
+[EPOCH 201/3000000] Strategy loss: 247.382652
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.34e-05 to 1.07e-05 at epoch 203
+[LR-SCHEDULER] Current patience counter: 5/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.07e-05 to 8.59e-06 at epoch 214
+[LR-SCHEDULER] Current patience counter: 16/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.59e-06 to 6.87e-06 at epoch 225
+[LR-SCHEDULER] Current patience counter: 27/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.87e-06 to 5.50e-06 at epoch 236
+[LR-SCHEDULER] Current patience counter: 38/60
+[BEST-MODEL] New best strategy loss: 239.814644 at epoch 240
+[BEST-MODEL] New best strategy loss: 239.471924 at epoch 242
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.50e-06 to 4.40e-06 at epoch 254
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.40e-06 to 3.52e-06 at epoch 265
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.52e-06 to 2.81e-06 at epoch 276
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.81e-06 to 2.25e-06 at epoch 287
+[LR-SCHEDULER] Current patience counter: 44/60
+[BEST-MODEL] New best strategy loss: 236.309975 at epoch 288
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.25e-06 to 1.80e-06 at epoch 300
+[LR-SCHEDULER] Current patience counter: 11/60
+[EPOCH 301/3000000] Strategy loss: 250.156090
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.80e-06 to 1.44e-06 at epoch 311
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.44e-06 to 1.15e-06 at epoch 322
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.15e-06 to 9.22e-07 at epoch 333
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 9.22e-07 to 7.38e-07 at epoch 344
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Strategy network training stopped early at epoch 349/3000000 restoring best model to epoch 288 loss: 236.309975.
+  Strategy network loss: 236.309975
+  Iteration completed in 354.50 seconds
+  Advantage memory size: 195672
+  Strategy memory size: 65224
+
+GTO preflop training iteration 2/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 219300 strategy size: 73100
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 243438 strategy size: 81146
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 267876 strategy size: 89292
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 292449 strategy size: 97483
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 316767 strategy size: 105589
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 341823 strategy size: 113941
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 364689 strategy size: 121563
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 388203 strategy size: 129401
+WARNING: No checkpoint files found in models_batch
+    Completed 4096/4096 traversals advantage size: 388203 strategy size: 129401 time taken: 119.27 seconds
+  Data collection completed in 119.36 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 59.716909 at epoch 0
+[BEST-MODEL] New best advantage loss: 36.671230 at epoch 1
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 13
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best advantage loss: 18.791599 at epoch 15
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 27
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 38
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 49
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 60
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 71
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Advantage network training stopped early at epoch 76/30000 restoring best model to epoch 15 loss: 18.791599.
+  Advantage network loss: 18.791599
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 261.192352
+[BEST-MODEL] New best strategy loss: 261.192352 at epoch 0
+[BEST-MODEL] New best strategy loss: 235.001038 at epoch 2
+[BEST-MODEL] New best strategy loss: 231.122803 at epoch 6
+[BEST-MODEL] New best strategy loss: 223.582703 at epoch 8
+[BEST-MODEL] New best strategy loss: 214.703682 at epoch 10
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 22
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 213.444748 at epoch 27
+[BEST-MODEL] New best strategy loss: 209.951294 at epoch 35
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 47
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 204.121666 at epoch 51
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 63
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 74
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 85
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 96
+[LR-SCHEDULER] Current patience counter: 44/60
+[EPOCH 101/3000000] Strategy loss: 220.754387
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 107
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Strategy network training stopped early at epoch 112/3000000 restoring best model to epoch 51 loss: 204.121666.
+  Strategy network loss: 204.121666
+  Evaluating agent...
+******************Game 0 completed random agent****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.0bb) --> BTN(call) --> SB(call) --> BB(3.0bb) --> CO(call) --> BTN(fold) --> SB(fold)
+   🌊 Flop: BB(check) --> CO(4.6bb) --> BB(call)
+   🔄 Turn: BB(check) --> CO(check)
+   🏁 River: BB(10.9bb) --> CO(20.8bb) --> BB(40.5bb) --> CO(80.0bb) --> BB(159.0bb) --> CO(192.4bb) --> BB(call)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 3♦ 7♦ | range_idx: 102
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $808.00
+🃏 Community: 5♣ 8♥ 6♥ 4♥ 6♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♦ 3♣ | 🔴 | Profit: $-4.00 | range_idx: 141
+  👤 SB | Hand: 9♥ 7♣ | 🔴 | Profit: $-4.00 | range_idx: 118
+  👤 BB | Hand: 3♦ 7♦ | 🔴 | Profit: $408.00 | range_idx: 102
+  👤 UTG | Hand: 5♠ 7♥ | 🔴 | Profit: $0.00 | range_idx: 129
+  👤 HJ | Hand: 7♠ 6♦ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 CO | Hand: K♦ J♦ | 🔴 | Profit: $-400.00 | range_idx: 8
+============================================================
+
+******************Game 250 completed random agent****************
+🎯 Game 250 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(check) --> SB(check) --> BB(fold)
+   🌊 Flop: SB(check) --> BTN(check)
+   🔄 Turn: SB(1.0bb) --> BTN(call)
+   🏁 River: SB(3.0bb) --> BTN(5.1bb) --> SB(9.2bb) --> BTN(call)
+
+🎮 Game 250 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: 8♠ 4♣ | range_idx: 155
+   Action: check | Stake: $377.60 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $46.80
+🃏 Community: A♦ J♦ 9♠ 6♣ 2♥
+
+🏁 Final Results:
+  🤖 BB | Hand: A♠ Q♣ | 🔴 | Profit: $-2.00 | range_idx: 17
+  👤 UTG | Hand: 7♦ 2♠ | 🔴 | Profit: $0.00 | range_idx: 168
+  👤 HJ | Hand: K♥ J♣ | 🔴 | Profit: $0.00 | range_idx: 30
+  👤 CO | Hand: 10♣ 3♦ | 🔴 | Profit: $0.00 | range_idx: 159
+  👤 BTN | Hand: 8♠ 4♣ | 🔴 | Profit: $-22.40 | range_idx: 155
+  👤 SB | Hand: 4♠ 9♦ | 🔴 | Profit: $24.40 | range_idx: 163
+============================================================
+
+******************Game 500 completed random agent****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(fold) --> SB(2.0bb) --> BB(call)
+   🌊 Flop: SB(3.0bb) --> BB(call)
+   🔄 Turn: SB(check) --> BB(3.2bb) --> SB(8.1bb) --> BB(16.8bb) --> SB(call)
+   🏁 River: SB(32.5bb) --> BB(64.0bb) --> SB(127.0bb) --> BB(call)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 4 (BB) res_pos: 4 | Hand: 8♥ A♦ | range_idx: 90
+   Action: check | Stake: $102.28 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $595.44
+🃏 Community: 10♠ Q♦ 3♥ 7♠ A♣
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♥ J♣ | 🔴 | Profit: $0.00 | range_idx: 151
+  👤 CO | Hand: 10♣ 7♦ | 🔴 | Profit: $0.00 | range_idx: 123
+  👤 BTN | Hand: 7♥ 2♥ | 🔴 | Profit: $0.00 | range_idx: 119
+  👤 SB | Hand: 4♣ 4♠ | 🔴 | Profit: $-297.72 | range_idx: 49
+  👤 BB | Hand: 8♥ A♦ | 🔴 | Profit: $297.72 | range_idx: 90
+  👤 UTG | Hand: 5♦ 9♣ | 🔴 | Profit: $0.00 | range_idx: 149
+============================================================
+
+******************Game 750 completed random agent****************
+🎯 Game 750 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(fold) --> SB(2.0bb) --> BB(call)
+   🌊 Flop: SB(3.0bb) --> BB(5.0bb) --> SB(9.1bb) --> BB(17.2bb) --> SB(call)
+   🔄 Turn: SB(check) --> BB(20.3bb) --> SB(call)
+   🏁 River: SB(38.9bb) --> BB(call)
+
+🎮 Game 750 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 4♦ 3♥ | range_idx: 141
+   Action: check | Stake: $243.14 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $313.72
+🃏 Community: A♦ 10♠ 10♣ 5♥ 9♣
+
+🏁 Final Results:
+  🤖 BTN | Hand: 8♦ 2♣ | 🔴 | Profit: $0.00 | range_idx: 167
+  👤 SB | Hand: 3♦ 9♠ | 🔴 | Profit: $156.86 | range_idx: 164
+  👤 BB | Hand: 4♦ 3♥ | 🔴 | Profit: $-156.86 | range_idx: 141
+  👤 UTG | Hand: Q♥ 5♣ | 🔴 | Profit: $0.00 | range_idx: 140
+  👤 HJ | Hand: Q♦ 8♠ | 🔴 | Profit: $0.00 | range_idx: 114
+  👤 CO | Hand: K♥ 10♥ | 🔴 | Profit: $0.00 | range_idx: 13
+============================================================
+
+  Average profit vs random: -8.77
+******************Game 0 evaluate_against_gto_preflop_agents****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 6♥ J♥ | range_idx: 78
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: 5♠ K♦ Q♠ A♥ 10♣
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♣ 2♥ | 🔴 | Profit: $0.00 | range_idx: 153
+  👤 SB | Hand: K♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 19
+  👤 BB | Hand: 6♥ J♥ | 🔴 | Profit: $-2.00 | range_idx: 78
+  👤 UTG | Hand: 2♣ 8♦ | 🔴 | Profit: $0.00 | range_idx: 167
+  👤 HJ | Hand: 6♦ 6♠ | 🔴 | Profit: $3.00 | range_idx: 35
+  👤 CO | Hand: 5♦ 8♠ | 🔴 | Profit: $0.00 | range_idx: 138
+============================================================
+
+******************Game 100 evaluate_against_gto_preflop_agents****************
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(check) --> CO(check)
+   🔄 Turn: BB(check) --> CO(2.8bb) --> BB(call)
+   🏁 River: BB(fold)
+
+🎮 Game 100 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: A♦ 9♣ | range_idx: 75
+   Action: fold | Stake: $389.50 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $22.00
+🃏 Community: K♦ J♥ J♠ 3♥ 6♥
+
+🏁 Final Results:
+  🤖 BB | Hand: A♦ 9♣ | 🔴 | Profit: $-10.50 | range_idx: 75
+  👤 UTG | Hand: 9♦ 6♦ | 🔴 | Profit: $0.00 | range_idx: 67
+  👤 HJ | Hand: 6♣ 8♠ | 🔴 | Profit: $0.00 | range_idx: 125
+  👤 CO | Hand: J♣ 10♦ | 🔴 | Profit: $11.50 | range_idx: 46
+  👤 BTN | Hand: 2♥ 9♥ | 🔴 | Profit: $0.00 | range_idx: 110
+  👤 SB | Hand: 7♣ 4♣ | 🔴 | Profit: $-1.00 | range_idx: 84
+============================================================
+
+******************Game 200 evaluate_against_gto_preflop_agents****************
+🎯 Game 200 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(8.5bb) --> BTN(24.0bb) --> SB(fold) --> BB(fold) --> HJ(fold) --> CO(call)
+   🌊 Flop: CO(check) --> BTN(check)
+   🔄 Turn: CO(check) --> BTN(25.2bb) --> CO(call)
+   🏁 River: CO(check) --> BTN(50.5bb) --> CO(call)
+
+🎮 Game 200 (FINAL) ==================================================
+👤 Player 1 (CO) res_pos: 1 | Hand: Q♠ Q♥ | range_idx: 2
+   Action: check | Stake: $200.50 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $404.00
+🃏 Community: J♦ A♣ A♦ 9♥ 8♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: 2♣ 9♦ | 🔴 | Profit: $-2.00 | range_idx: 165
+  👤 CO | Hand: Q♠ Q♥ | 🔴 | Profit: $-199.50 | range_idx: 2
+  👤 BTN | Hand: K♦ A♥ | 🔴 | Profit: $204.50 | range_idx: 10
+  👤 SB | Hand: 5♣ 5♥ | 🔴 | Profit: $-1.00 | range_idx: 45
+  👤 BB | Hand: 6♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 52
+  👤 UTG | Hand: 3♦ Q♦ | 🔴 | Profit: $0.00 | range_idx: 71
+============================================================
+
+******************Game 300 evaluate_against_gto_preflop_agents****************
+🎯 Game 300 Action Sequence:
+   🃏 Preflop: UTG(2.5bb) --> HJ(fold) --> CO(fold) --> BTN(call) --> SB(fold) --> BB(fold)
+   🌊 Flop: UTG(1.0bb) --> BTN(fold)
+
+🎮 Game 300 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 10♣ K♦ | range_idx: 44
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $15.00
+🃏 Community: 6♥ 2♦ 4♣ 2♠ 8♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ K♦ | 🔴 | Profit: $-5.00 | range_idx: 44
+  👤 SB | Hand: 2♥ 7♦ | 🔴 | Profit: $-1.00 | range_idx: 168
+  👤 BB | Hand: 3♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 58
+  👤 UTG | Hand: Q♠ K♣ | 🔴 | Profit: $8.00 | range_idx: 19
+  👤 HJ | Hand: 4♥ 10♥ | 🔴 | Profit: $0.00 | range_idx: 94
+  👤 CO | Hand: 2♣ Q♣ | 🔴 | Profit: $0.00 | range_idx: 74
+============================================================
+
+******************Game 400 evaluate_against_gto_preflop_agents****************
+🎯 Game 400 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(fold)
+
+🎮 Game 400 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: 7♥ J♠ | range_idx: 128
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: Q♦ J♣ 10♥ 2♣ 7♦
+
+🏁 Final Results:
+  🤖 BB | Hand: 7♥ J♠ | 🔴 | Profit: $-2.00 | range_idx: 128
+  👤 UTG | Hand: 8♥ 5♥ | 🔴 | Profit: $0.00 | range_idx: 77
+  👤 HJ | Hand: 4♦ A♣ | 🔴 | Profit: $0.00 | range_idx: 103
+  👤 CO | Hand: 9♠ Q♣ | 🔴 | Profit: $0.00 | range_idx: 82
+  👤 BTN | Hand: 10♠ 9♦ | 🔴 | Profit: $3.00 | range_idx: 72
+  👤 SB | Hand: 3♣ 6♦ | 🔴 | Profit: $-1.00 | range_idx: 147
+============================================================
+
+******************Game 479 evaluate_against_gto_preflop_agents****************
+🎯 Game 479 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(2.8bb) --> CO(call)
+   🔄 Turn: BB(check) --> CO(check)
+   🏁 River: BB(1.0bb) --> CO(call)
+
+🎮 Game 479 (FINAL) ==================================================
+👤 Player 4 (CO) res_pos: 1 | Hand: 10♠ K♦ | range_idx: 44
+   Action: check | Stake: $387.50 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $26.00
+🃏 Community: 7♥ A♥ 4♣ 2♣ 7♣
+
+🏁 Final Results:
+  🤖 SB | Hand: 7♦ J♠ | 🔴 | Profit: $-1.00 | range_idx: 128
+  👤 BB | Hand: 6♠ 4♠ | 🔴 | Profit: $13.50 | range_idx: 69
+  👤 UTG | Hand: 6♦ 7♠ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 HJ | Hand: 3♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 132
+  👤 CO | Hand: 10♠ K♦ | 🔴 | Profit: $-12.50 | range_idx: 44
+  👤 BTN | Hand: Q♥ 10♣ | 🔴 | Profit: $0.00 | range_idx: 48
+============================================================
+
+******************Game 500 evaluate_against_gto_preflop_agents****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 4 (BB) res_pos: 4 | Hand: 8♦ 5♥ | range_idx: 138
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $5.00
+🃏 Community: K♠ 2♥ K♥ 7♦ 3♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: K♦ 10♦ | 🔴 | Profit: $3.00 | range_idx: 13
+  👤 CO | Hand: K♣ 2♠ | 🔴 | Profit: $0.00 | range_idx: 134
+  👤 BTN | Hand: 9♦ J♥ | 🔴 | Profit: $0.00 | range_idx: 79
+  👤 SB | Hand: 10♥ A♣ | 🔴 | Profit: $-1.00 | range_idx: 41
+  👤 BB | Hand: 8♦ 5♥ | 🔴 | Profit: $-2.00 | range_idx: 138
+  👤 UTG | Hand: 10♣ 4♠ | 🔴 | Profit: $0.00 | range_idx: 157
+============================================================
+
+******************Game 600 evaluate_against_gto_preflop_agents****************
+🎯 Game 600 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(8.5bb) --> SB(fold) --> BB(fold) --> HJ(fold)
+
+🎮 Game 600 (FINAL) ==================================================
+👤 Player 4 (HJ) res_pos: 2 | Hand: 10♣ K♦ | range_idx: 44
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $25.02
+🃏 Community: 7♣ 6♠ Q♥ 6♥ 9♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♦ K♠ | 🔴 | Profit: $8.00 | range_idx: 131
+  👤 SB | Hand: 2♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 145
+  👤 BB | Hand: A♥ 10♠ | 🔴 | Profit: $-2.00 | range_idx: 41
+  👤 UTG | Hand: J♦ 3♦ | 🔴 | Profit: $0.00 | range_idx: 86
+  👤 HJ | Hand: 10♣ K♦ | 🔴 | Profit: $-5.00 | range_idx: 44
+  👤 CO | Hand: 4♥ K♥ | 🔴 | Profit: $0.00 | range_idx: 57
+============================================================
+
+******************Game 700 evaluate_against_gto_preflop_agents****************
+🎯 Game 700 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(8.7bb) --> BTN(fold)
+
+🎮 Game 700 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: Q♠ 4♠ | range_idx: 70
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $23.50
+🃏 Community: J♠ 2♥ 6♥ 9♥ 2♠
+
+🏁 Final Results:
+  🤖 BB | Hand: A♥ 7♣ | 🔴 | Profit: $6.00 | range_idx: 101
+  👤 UTG | Hand: 6♦ 10♣ | 🔴 | Profit: $0.00 | range_idx: 139
+  👤 HJ | Hand: 4♦ 8♦ | 🔴 | Profit: $0.00 | range_idx: 93
+  👤 CO | Hand: K♥ 7♦ | 🔴 | Profit: $0.00 | range_idx: 121
+  👤 BTN | Hand: Q♠ 4♠ | 🔴 | Profit: $-5.00 | range_idx: 70
+  👤 SB | Hand: K♣ 8♥ | 🔴 | Profit: $-1.00 | range_idx: 111
+============================================================
+
+******************Game 800 evaluate_against_gto_preflop_agents****************
+🎯 Game 800 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(3.2bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(12.0bb) --> HJ(fold)
+
+🎮 Game 800 (FINAL) ==================================================
+🤖 Player 0 (HJ) res_pos: 2 | Hand: 4♠ Q♠ | range_idx: 70
+   Action: fold | Stake: $393.64 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $31.36
+🃏 Community: J♥ 2♠ 10♦ A♠ 5♥
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♠ Q♠ | 🔴 | Profit: $-6.36 | range_idx: 70
+  👤 CO | Hand: 10♠ 2♦ | 🔴 | Profit: $0.00 | range_idx: 161
+  👤 BTN | Hand: 6♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 124
+  👤 SB | Hand: 3♣ 5♦ | 🔴 | Profit: $-1.00 | range_idx: 137
+  👤 BB | Hand: 9♣ 9♠ | 🔴 | Profit: $7.36 | range_idx: 16
+  👤 UTG | Hand: 2♥ 8♣ | 🔴 | Profit: $0.00 | range_idx: 167
+============================================================
+
+******************Game 900 evaluate_against_gto_preflop_agents****************
+🎯 Game 900 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(check) --> SB(fold) --> BB(fold)
+
+🎮 Game 900 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 5♣ 2♠ | range_idx: 150
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $5.00
+🃏 Community: Q♥ 10♠ 7♣ K♠ 6♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ 10♥ | 🔴 | Profit: $3.00 | range_idx: 9
+  👤 SB | Hand: 10♦ A♣ | 🔴 | Profit: $-1.00 | range_idx: 41
+  👤 BB | Hand: 5♣ 2♠ | 🔴 | Profit: $-2.00 | range_idx: 150
+  👤 UTG | Hand: 7♥ 5♠ | 🔴 | Profit: $0.00 | range_idx: 129
+  👤 HJ | Hand: J♥ 2♦ | 🔴 | Profit: $0.00 | range_idx: 154
+  👤 CO | Hand: 2♥ 8♥ | 🔴 | Profit: $0.00 | range_idx: 117
+============================================================
+
+Final performance vs GTO preflop: Average profit per game: -9.32
+  Iteration completed in 231.13 seconds
+  Advantage memory size: 388203
+  Strategy memory size: 129401
+
+GTO preflop training iteration 3/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 410631 strategy size: 136877
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 435450 strategy size: 145150
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 460512 strategy size: 153504
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 485310 strategy size: 161770
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 508707 strategy size: 169569
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 533259 strategy size: 177753
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 556959 strategy size: 185653
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 580173 strategy size: 193391
+WARNING: No checkpoint files found in models_batch
+    Completed 4096/4096 traversals advantage size: 580173 strategy size: 193391 time taken: 119.08 seconds
+  Data collection completed in 119.09 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 74.699844 at epoch 0
+[BEST-MODEL] New best advantage loss: 20.353578 at epoch 2
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 14
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 25
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best advantage loss: 18.870615 at epoch 28
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 40
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 51
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 62
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 73
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 84
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Advantage network training stopped early at epoch 89/30000 restoring best model to epoch 28 loss: 18.870615.
+  Advantage network loss: 18.870615
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 201.075089
+[BEST-MODEL] New best strategy loss: 201.075089 at epoch 0
+[BEST-MODEL] New best strategy loss: 184.301735 at epoch 2
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 14
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 181.377777 at epoch 16
+[BEST-MODEL] New best strategy loss: 180.150993 at epoch 17
+[BEST-MODEL] New best strategy loss: 169.291855 at epoch 28
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 40
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 51
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 62
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 73
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 84
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Strategy network training stopped early at epoch 89/3000000 restoring best model to epoch 28 loss: 169.291855.
+  Strategy network loss: 169.291855
+  Iteration completed in 218.15 seconds
+  Advantage memory size: 580173
+  Strategy memory size: 193391
+
+GTO preflop training iteration 4/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 604551 strategy size: 201517
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 628269 strategy size: 209423
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 652044 strategy size: 217348
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 677460 strategy size: 225820
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 702309 strategy size: 234103
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 726681 strategy size: 242227
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 751491 strategy size: 250497
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 775491 strategy size: 258497
+WARNING: No checkpoint files found in models_batch
+    Completed 4096/4096 traversals advantage size: 775491 strategy size: 258497 time taken: 120.97 seconds
+  Data collection completed in 121.06 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 67.743771 at epoch 0
+[BEST-MODEL] New best advantage loss: 54.539261 at epoch 1
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 13
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best advantage loss: 50.147790 at epoch 13
+[BEST-MODEL] New best advantage loss: 50.029605 at epoch 16
+[BEST-MODEL] New best advantage loss: 46.420424 at epoch 17
+[BEST-MODEL] New best advantage loss: 42.599930 at epoch 18
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 30
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best advantage loss: 20.552189 at epoch 34
+[BEST-MODEL] New best advantage loss: 20.510907 at epoch 39
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 51
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 62
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 73
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 84
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 95
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Advantage network training stopped early at epoch 100/30000 restoring best model to epoch 39 loss: 20.510907.
+  Advantage network loss: 20.510907
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 184.391953
+[BEST-MODEL] New best strategy loss: 184.391953 at epoch 0
+[BEST-MODEL] New best strategy loss: 178.653633 at epoch 4
+[BEST-MODEL] New best strategy loss: 177.655006 at epoch 5
+[BEST-MODEL] New best strategy loss: 174.142593 at epoch 8
+[BEST-MODEL] New best strategy loss: 171.854759 at epoch 11
+[BEST-MODEL] New best strategy loss: 169.213898 at epoch 13
+[BEST-MODEL] New best strategy loss: 166.639320 at epoch 18
+[BEST-MODEL] New best strategy loss: 166.503540 at epoch 27
+[BEST-MODEL] New best strategy loss: 165.509178 at epoch 30
+[BEST-MODEL] New best strategy loss: 162.513161 at epoch 36
+[BEST-MODEL] New best strategy loss: 160.952293 at epoch 42
+[BEST-MODEL] New best strategy loss: 160.291145 at epoch 47
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 59
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 70
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best strategy loss: 156.510849 at epoch 73
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 85
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 96
+[LR-SCHEDULER] Current patience counter: 22/60
+[EPOCH 101/3000000] Strategy loss: 167.883873
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 107
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 118
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 129
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Strategy network training stopped early at epoch 134/3000000 restoring best model to epoch 73 loss: 156.510849.
+  Strategy network loss: 156.510849
+  Evaluating agent...
+******************Game 0 completed random agent****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.0bb) --> BTN(fold) --> SB(fold) --> BB(3.0bb) --> CO(fold)
+
+🎮 Game 0 (FINAL) ==================================================
+👤 Player 5 (CO) res_pos: 1 | Hand: J♠ Q♠ | range_idx: 12
+   Action: fold | Stake: $396.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $11.00
+🃏 Community: Q♣ A♣ 3♥ 6♥ 5♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 6♦ 7♥ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 SB | Hand: 8♠ 4♣ | 🔴 | Profit: $-1.00 | range_idx: 155
+  👤 BB | Hand: K♦ K♣ | 🔴 | Profit: $5.00 | range_idx: 1
+  👤 UTG | Hand: A♠ 3♠ | 🔴 | Profit: $0.00 | range_idx: 168
+  👤 HJ | Hand: 9♥ 2♣ | 🔴 | Profit: $0.00 | range_idx: 165
+  👤 CO | Hand: J♠ Q♠ | 🔴 | Profit: $-4.00 | range_idx: 12
+============================================================
+
+******************Game 250 completed random agent****************
+🎯 Game 250 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.6bb) --> SB(4.3bb) --> BB(fold) --> BTN(call)
+   🌊 Flop: SB(check) --> BTN(3.3bb) --> SB(call)
+   🔄 Turn: SB(7.0bb) --> BTN(call)
+   🏁 River: SB(check) --> BTN(check)
+
+🎮 Game 250 (FINAL) ==================================================
+👤 Player 4 (BTN) res_pos: 0 | Hand: 4♠ Q♦ | range_idx: 142
+   Action: check | Stake: $370.72 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $60.56
+🃏 Community: 4♦ 7♦ 6♠ Q♣ Q♠
+
+🏁 Final Results:
+  🤖 BB | Hand: 3♠ 8♦ | 🔴 | Profit: $-2.00 | range_idx: 166
+  👤 UTG | Hand: 10♥ J♦ | 🔴 | Profit: $0.00 | range_idx: 46
+  👤 HJ | Hand: J♣ A♣ | 🔴 | Profit: $0.00 | range_idx: 7
+  👤 CO | Hand: 10♣ 5♦ | 🔴 | Profit: $0.00 | range_idx: 156
+  👤 BTN | Hand: 4♠ Q♦ | 🔴 | Profit: $31.28 | range_idx: 142
+  👤 SB | Hand: 9♣ A♦ | 🔴 | Profit: $-29.28 | range_idx: 75
+============================================================
+
+******************Game 500 completed random agent****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(check)
+   🌊 Flop: BB(check) --> HJ(fold)
+
+🎮 Game 500 (FINAL) ==================================================
+🤖 Player 0 (HJ) res_pos: 2 | Hand: 8♦ 7♥ | range_idx: 113
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $5.00
+🃏 Community: A♣ 7♣ 2♦ 7♠ J♣
+
+🏁 Final Results:
+  🤖 HJ | Hand: 8♦ 7♥ | 🔴 | Profit: $-2.00 | range_idx: 113
+  👤 CO | Hand: K♠ 5♥ | 🔴 | Profit: $0.00 | range_idx: 127
+  👤 BTN | Hand: 4♦ 4♥ | 🔴 | Profit: $0.00 | range_idx: 49
+  👤 SB | Hand: 2♣ 10♣ | 🔴 | Profit: $-1.00 | range_idx: 97
+  👤 BB | Hand: 8♠ Q♥ | 🔴 | Profit: $3.00 | range_idx: 114
+  👤 UTG | Hand: 9♦ 9♠ | 🔴 | Profit: $0.00 | range_idx: 16
+============================================================
+
+******************Game 750 completed random agent****************
+🎯 Game 750 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(check) --> CO(fold) --> BTN(fold) --> SB(check) --> BB(check)
+   🌊 Flop: SB(2.4bb) --> BB(call) --> HJ(3.7bb) --> SB(6.5bb) --> BB(call) --> HJ(call)
+   🔄 Turn: SB(check) --> BB(10.4bb) --> HJ(19.8bb) --> SB(38.6bb) --> BB(call) --> HJ(76.2bb) --> SB(151.4bb) --> BB(call) --> HJ(192.5bb) --> SB(call) --> BB(call)
+
+🎮 Game 750 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 4♥ J♠ | range_idx: 151
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $1200.00
+🃏 Community: Q♣ 2♣ 7♠ 9♦ 8♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 9♣ 5♣ | 🔴 | Profit: $0.00 | range_idx: 87
+  👤 SB | Hand: 3♥ 6♣ | 🔴 | Profit: $-400.00 | range_idx: 147
+  👤 BB | Hand: 4♥ J♠ | 🔴 | Profit: $-400.00 | range_idx: 151
+  👤 UTG | Hand: K♠ 7♦ | 🔴 | Profit: $0.00 | range_idx: 121
+  👤 HJ | Hand: 6♠ 5♦ | 🔴 | Profit: $800.00 | range_idx: 122
+  👤 CO | Hand: 8♦ 4♣ | 🔴 | Profit: $0.00 | range_idx: 155
+============================================================
+
+  Average profit vs random: -1.73
+******************Game 0 evaluate_against_gto_preflop_agents****************
+🎯 Game 0 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(call) --> SB(fold) --> BB(fold)
+   🌊 Flop: HJ(check) --> BTN(fold)
+
+🎮 Game 0 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 4♣ 2♥ | range_idx: 153
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $13.00
+🃏 Community: 5♠ K♦ Q♠ A♥ 10♣
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♣ 2♥ | 🔴 | Profit: $-5.00 | range_idx: 153
+  👤 SB | Hand: K♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 19
+  👤 BB | Hand: 6♥ J♥ | 🔴 | Profit: $-2.00 | range_idx: 78
+  👤 UTG | Hand: 2♣ 8♦ | 🔴 | Profit: $0.00 | range_idx: 167
+  👤 HJ | Hand: 6♦ 6♠ | 🔴 | Profit: $8.00 | range_idx: 35
+  👤 CO | Hand: 5♦ 8♠ | 🔴 | Profit: $0.00 | range_idx: 138
+============================================================
+
+******************Game 100 evaluate_against_gto_preflop_agents****************
+🎯 Game 100 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(fold)
+
+🎮 Game 100 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: A♦ 9♣ | range_idx: 75
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: K♦ J♥ J♠ 3♥ 6♥
+
+🏁 Final Results:
+  🤖 BB | Hand: A♦ 9♣ | 🔴 | Profit: $-2.00 | range_idx: 75
+  👤 UTG | Hand: 9♦ 6♦ | 🔴 | Profit: $0.00 | range_idx: 67
+  👤 HJ | Hand: 6♣ 8♠ | 🔴 | Profit: $0.00 | range_idx: 125
+  👤 CO | Hand: J♣ 10♦ | 🔴 | Profit: $3.00 | range_idx: 46
+  👤 BTN | Hand: 2♥ 9♥ | 🔴 | Profit: $0.00 | range_idx: 110
+  👤 SB | Hand: 7♣ 4♣ | 🔴 | Profit: $-1.00 | range_idx: 84
+============================================================
+
+******************Game 200 evaluate_against_gto_preflop_agents****************
+🎯 Game 200 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(8.5bb) --> SB(fold) --> BB(fold) --> CO(call)
+   🌊 Flop: CO(191.5bb) --> BTN(call)
+
+🎮 Game 200 (FINAL) ==================================================
+👤 Player 2 (BTN) res_pos: 0 | Hand: K♦ A♥ | range_idx: 10
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $803.00
+🃏 Community: J♦ A♣ A♦ 9♥ 8♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: 2♣ 9♦ | 🔴 | Profit: $0.00 | range_idx: 165
+  👤 CO | Hand: Q♠ Q♥ | 🔴 | Profit: $-400.00 | range_idx: 2
+  👤 BTN | Hand: K♦ A♥ | 🔴 | Profit: $403.00 | range_idx: 10
+  👤 SB | Hand: 5♣ 5♥ | 🔴 | Profit: $-1.00 | range_idx: 45
+  👤 BB | Hand: 6♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 52
+  👤 UTG | Hand: 3♦ Q♦ | 🔴 | Profit: $0.00 | range_idx: 71
+============================================================
+
+******************Game 300 evaluate_against_gto_preflop_agents****************
+🎯 Game 300 Action Sequence:
+   🃏 Preflop: UTG(2.5bb) --> HJ(fold) --> CO(fold) --> BTN(call) --> SB(fold) --> BB(fold)
+   🌊 Flop: UTG(197.5bb) --> BTN(fold)
+
+🎮 Game 300 (FINAL) ==================================================
+🤖 Player 0 (BTN) res_pos: 0 | Hand: 10♣ K♦ | range_idx: 44
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $408.00
+🃏 Community: 6♥ 2♦ 4♣ 2♠ 8♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ K♦ | 🔴 | Profit: $-5.00 | range_idx: 44
+  👤 SB | Hand: 2♥ 7♦ | 🔴 | Profit: $-1.00 | range_idx: 168
+  👤 BB | Hand: 3♠ K♠ | 🔴 | Profit: $-2.00 | range_idx: 58
+  👤 UTG | Hand: Q♠ K♣ | 🔴 | Profit: $8.00 | range_idx: 19
+  👤 HJ | Hand: 4♥ 10♥ | 🔴 | Profit: $0.00 | range_idx: 94
+  👤 CO | Hand: 2♣ Q♣ | 🔴 | Profit: $0.00 | range_idx: 74
+============================================================
+
+******************Game 400 evaluate_against_gto_preflop_agents****************
+🎯 Game 400 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(fold)
+
+🎮 Game 400 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: 7♥ J♠ | range_idx: 128
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: Q♦ J♣ 10♥ 2♣ 7♦
+
+🏁 Final Results:
+  🤖 BB | Hand: 7♥ J♠ | 🔴 | Profit: $-2.00 | range_idx: 128
+  👤 UTG | Hand: 8♥ 5♥ | 🔴 | Profit: $0.00 | range_idx: 77
+  👤 HJ | Hand: 4♦ A♣ | 🔴 | Profit: $0.00 | range_idx: 103
+  👤 CO | Hand: 9♠ Q♣ | 🔴 | Profit: $0.00 | range_idx: 82
+  👤 BTN | Hand: 10♠ 9♦ | 🔴 | Profit: $3.00 | range_idx: 72
+  👤 SB | Hand: 3♣ 6♦ | 🔴 | Profit: $-1.00 | range_idx: 147
+============================================================
+
+******************Game 479 evaluate_against_gto_preflop_agents****************
+🎯 Game 479 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(2.5bb) --> BTN(fold) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(check) --> CO(2.8bb) --> BB(call)
+   🔄 Turn: BB(194.8bb) --> CO(call)
+
+🎮 Game 479 (FINAL) ==================================================
+👤 Player 4 (CO) res_pos: 1 | Hand: 10♠ K♦ | range_idx: 44
+   Action: check | Stake: $0.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $801.00
+🃏 Community: 7♥ A♥ 4♣ 2♣ 7♣
+
+🏁 Final Results:
+  🤖 SB | Hand: 7♦ J♠ | 🔴 | Profit: $-1.00 | range_idx: 128
+  👤 BB | Hand: 6♠ 4♠ | 🔴 | Profit: $401.00 | range_idx: 69
+  👤 UTG | Hand: 6♦ 7♠ | 🔴 | Profit: $0.00 | range_idx: 120
+  👤 HJ | Hand: 3♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 132
+  👤 CO | Hand: 10♠ K♦ | 🔴 | Profit: $-400.00 | range_idx: 44
+  👤 BTN | Hand: Q♥ 10♣ | 🔴 | Profit: $0.00 | range_idx: 48
+============================================================
+
+******************Game 500 evaluate_against_gto_preflop_agents****************
+🎯 Game 500 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(call) --> BB(fold)
+   🌊 Flop: SB(check) --> BTN(1.0bb) --> SB(call)
+   🔄 Turn: SB(check) --> BTN(8.0bb) --> SB(call)
+   🏁 River: SB(check) --> BTN(check)
+
+🎮 Game 500 (FINAL) ==================================================
+👤 Player 2 (BTN) res_pos: 0 | Hand: 9♦ J♥ | range_idx: 79
+   Action: check | Stake: $377.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $48.00
+🃏 Community: K♠ 2♥ K♥ 7♦ 3♦
+
+🏁 Final Results:
+  🤖 HJ | Hand: K♦ 10♦ | 🔴 | Profit: $0.00 | range_idx: 13
+  👤 CO | Hand: K♣ 2♠ | 🔴 | Profit: $0.00 | range_idx: 134
+  👤 BTN | Hand: 9♦ J♥ | 🔴 | Profit: $-23.00 | range_idx: 79
+  👤 SB | Hand: 10♥ A♣ | 🔴 | Profit: $25.00 | range_idx: 41
+  👤 BB | Hand: 8♦ 5♥ | 🔴 | Profit: $-2.00 | range_idx: 138
+  👤 UTG | Hand: 10♣ 4♠ | 🔴 | Profit: $0.00 | range_idx: 157
+============================================================
+
+******************Game 600 evaluate_against_gto_preflop_agents****************
+🎯 Game 600 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(2.5bb) --> CO(fold) --> BTN(fold) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(check) --> HJ(check)
+   🔄 Turn: BB(check) --> HJ(check)
+   🏁 River: BB(2.8bb) --> HJ(call)
+
+🎮 Game 600 (FINAL) ==================================================
+👤 Player 4 (HJ) res_pos: 2 | Hand: 10♣ K♦ | range_idx: 44
+   Action: check | Stake: $389.50 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $22.00
+🃏 Community: 7♣ 6♠ Q♥ 6♥ 9♠
+
+🏁 Final Results:
+  🤖 BTN | Hand: 4♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 131
+  👤 SB | Hand: 2♠ Q♦ | 🔴 | Profit: $-1.00 | range_idx: 145
+  👤 BB | Hand: A♥ 10♠ | 🔴 | Profit: $11.50 | range_idx: 41
+  👤 UTG | Hand: J♦ 3♦ | 🔴 | Profit: $0.00 | range_idx: 86
+  👤 HJ | Hand: 10♣ K♦ | 🔴 | Profit: $-10.50 | range_idx: 44
+  👤 CO | Hand: 4♥ K♥ | 🔴 | Profit: $0.00 | range_idx: 57
+============================================================
+
+******************Game 700 evaluate_against_gto_preflop_agents****************
+🎯 Game 700 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(2.5bb) --> SB(fold) --> BB(call)
+   🌊 Flop: BB(fold)
+
+🎮 Game 700 (FINAL) ==================================================
+🤖 Player 0 (BB) res_pos: 4 | Hand: A♥ 7♣ | range_idx: 101
+   Action: fold | Stake: $395.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $11.00
+🃏 Community: J♠ 2♥ 6♥ 9♥ 2♠
+
+🏁 Final Results:
+  🤖 BB | Hand: A♥ 7♣ | 🔴 | Profit: $-5.00 | range_idx: 101
+  👤 UTG | Hand: 6♦ 10♣ | 🔴 | Profit: $0.00 | range_idx: 139
+  👤 HJ | Hand: 4♦ 8♦ | 🔴 | Profit: $0.00 | range_idx: 93
+  👤 CO | Hand: K♥ 7♦ | 🔴 | Profit: $0.00 | range_idx: 121
+  👤 BTN | Hand: Q♠ 4♠ | 🔴 | Profit: $6.00 | range_idx: 70
+  👤 SB | Hand: K♣ 8♥ | 🔴 | Profit: $-1.00 | range_idx: 111
+============================================================
+
+******************Game 800 evaluate_against_gto_preflop_agents****************
+🎯 Game 800 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(fold) --> SB(fold)
+
+🎮 Game 800 (FINAL) ==================================================
+👤 Player 3 (SB) res_pos: 5 | Hand: 3♣ 5♦ | range_idx: 137
+   Action: fold | Stake: $399.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $3.00
+🃏 Community: J♥ 2♠ 10♦ A♠ 5♥
+
+🏁 Final Results:
+  🤖 HJ | Hand: 4♠ Q♠ | 🔴 | Profit: $0.00 | range_idx: 70
+  👤 CO | Hand: 10♠ 2♦ | 🔴 | Profit: $0.00 | range_idx: 161
+  👤 BTN | Hand: 6♦ K♠ | 🔴 | Profit: $0.00 | range_idx: 124
+  👤 SB | Hand: 3♣ 5♦ | 🔴 | Profit: $-1.00 | range_idx: 137
+  👤 BB | Hand: 9♣ 9♠ | 🔴 | Profit: $1.00 | range_idx: 16
+  👤 UTG | Hand: 2♥ 8♣ | 🔴 | Profit: $0.00 | range_idx: 167
+============================================================
+
+******************Game 900 evaluate_against_gto_preflop_agents****************
+🎯 Game 900 Action Sequence:
+   🃏 Preflop: UTG(fold) --> HJ(fold) --> CO(fold) --> BTN(fold) --> SB(3.0bb) --> BB(fold)
+
+🎮 Game 900 (FINAL) ==================================================
+👤 Player 2 (BB) res_pos: 4 | Hand: 5♣ 2♠ | range_idx: 150
+   Action: fold | Stake: $398.00 | Bet: $0.00 | 🔴 Folded
+❓ Stage: Showdown | 💰 Pot: $8.00
+🃏 Community: Q♥ 10♠ 7♣ K♠ 6♦
+
+🏁 Final Results:
+  🤖 BTN | Hand: 10♣ 10♥ | 🔴 | Profit: $0.00 | range_idx: 9
+  👤 SB | Hand: 10♦ A♣ | 🔴 | Profit: $2.00 | range_idx: 41
+  👤 BB | Hand: 5♣ 2♠ | 🔴 | Profit: $-2.00 | range_idx: 150
+  👤 UTG | Hand: 7♥ 5♠ | 🔴 | Profit: $0.00 | range_idx: 129
+  👤 HJ | Hand: J♥ 2♦ | 🔴 | Profit: $0.00 | range_idx: 154
+  👤 CO | Hand: 2♥ 8♥ | 🔴 | Profit: $0.00 | range_idx: 117
+============================================================
+
+Final performance vs GTO preflop: Average profit per game: -3.70
+  Iteration completed in 261.38 seconds
+  Advantage memory size: 775491
+  Strategy memory size: 258497
+
+GTO preflop training iteration 5/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 800868 strategy size: 266956
+WARNING: No checkpoint files found in models_batch
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 823203 strategy size: 274401
+WARNING: No checkpoint files found in models_batch
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 845838 strategy size: 281946
+WARNING: No checkpoint files found in models_batch
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 868305 strategy size: 289435
+WARNING: No checkpoint files found in models_batch
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 891711 strategy size: 297237
+WARNING: No checkpoint files found in models_batch
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 915375 strategy size: 305125
+WARNING: No checkpoint files found in models_batch
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 939462 strategy size: 313154
+WARNING: No checkpoint files found in models_batch
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 962760 strategy size: 320920
+WARNING: No checkpoint files found in models_batch
+    Completed 4096/4096 traversals advantage size: 962760 strategy size: 320920 time taken: 115.99 seconds
+  Data collection completed in 116.00 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 66.089666 at epoch 0
+[BEST-MODEL] New best advantage loss: 21.354647 at epoch 1
+[BEST-MODEL] New best advantage loss: 20.945287 at epoch 4
+[BEST-MODEL] New best advantage loss: 20.706087 at epoch 5
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 17
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best advantage loss: 20.472709 at epoch 18
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 30
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 41
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 52
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 63
+[LR-SCHEDULER] Current patience counter: 44/60
+[BEST-MODEL] New best advantage loss: 20.402533 at epoch 68
+[BEST-MODEL] New best advantage loss: 20.343548 at epoch 74
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 86
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 97
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.10e-05 to 1.68e-05 at epoch 108
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.68e-05 to 1.34e-05 at epoch 119
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.34e-05 to 1.07e-05 at epoch 130
+[LR-SCHEDULER] Current patience counter: 55/60
+[EARLY-STOP] Advantage network training stopped early at epoch 135/30000 restoring best model to epoch 74 loss: 20.343548.
+  Advantage network loss: 20.343548
+DeepCFRAgent strategy network moved to device: cuda
+  Training strategy network...
+[EPOCH 1/3000000] Strategy loss: 152.788994
+[BEST-MODEL] New best strategy loss: 152.788994 at epoch 0
+[BEST-MODEL] New best strategy loss: 151.626091 at epoch 3
+[LR-SCHEDULER] Strategy network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 15
+[LR-SCHEDULER] Current patience counter: 11/60
+[BEST-MODEL] New best strategy loss: 148.480324 at epoch 15
+[BEST-MODEL] New best strategy loss: 143.956871 at epoch 18
+[LR-SCHEDULER] Strategy network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 30
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 41
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best strategy loss: 143.309082 at epoch 44
+[LR-SCHEDULER] Strategy network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 56
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 67
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 78
+[LR-SCHEDULER] Current patience counter: 33/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 89
+[LR-SCHEDULER] Current patience counter: 44/60
+[LR-SCHEDULER] Strategy network learning rate reduced from 2.10e-05 to 1.68e-05 at epoch 100
+[LR-SCHEDULER] Current patience counter: 55/60
+[EPOCH 101/3000000] Strategy loss: 151.584198
+[EARLY-STOP] Strategy network training stopped early at epoch 105/3000000 restoring best model to epoch 44 loss: 143.309082.
+  Strategy network loss: 143.309082
+  Checkpoint saved to models_batch/gto_preflop_batch_checkpoint_iter_5.pt
+  Iteration completed in 262.44 seconds
+  Advantage memory size: 962760
+  Strategy memory size: 320920
+
+GTO preflop training iteration 6/101000
+  Collecting data with batching...
+    Progress: 512/4096 traversals completed, 0 active tasks adv size size: 985425 strategy size: 328475
+Warning: Failed to load checkpoint models_batch/gto_preflop_batch_checkpoint_iter_5.pt: 'RandomAgent' object has no attribute 'move_all_to_cpu'
+Checkpoint load failures: 1/3
+Failed to recover model to device: 'RandomAgent' object has no attribute 'move_all_to_device'
+    Progress: 1024/4096 traversals completed, 0 active tasks adv size size: 1009308 strategy size: 336436
+Warning: Failed to load checkpoint models_batch/gto_preflop_batch_checkpoint_iter_5.pt: 'RandomAgent' object has no attribute 'move_all_to_cpu'
+Checkpoint load failures: 2/3
+Failed to recover model to device: 'RandomAgent' object has no attribute 'move_all_to_device'
+    Progress: 1536/4096 traversals completed, 0 active tasks adv size size: 1033842 strategy size: 344614
+Warning: Failed to load checkpoint models_batch/gto_preflop_batch_checkpoint_iter_5.pt: 'RandomAgent' object has no attribute 'move_all_to_cpu'
+Checkpoint load failures: 3/3
+Failed to recover model to device: 'RandomAgent' object has no attribute 'move_all_to_device'
+    Progress: 2048/4096 traversals completed, 0 active tasks adv size size: 1057659 strategy size: 352553
+    Progress: 2560/4096 traversals completed, 0 active tasks adv size size: 1081842 strategy size: 360614
+    Progress: 3072/4096 traversals completed, 0 active tasks adv size size: 1105401 strategy size: 368467
+    Progress: 3584/4096 traversals completed, 0 active tasks adv size size: 1129401 strategy size: 376467
+    Progress: 4096/4096 traversals completed, 0 active tasks adv size size: 1152729 strategy size: 384243
+    Completed 4096/4096 traversals advantage size: 1152729 strategy size: 384243 time taken: 117.02 seconds
+  Data collection completed in 117.11 seconds.
+DeepCFRAgent models reset successfully.
+  Training advantage network...
+DeepCFRAgent advantage network moved to device: cuda
+[BEST-MODEL] New best advantage loss: 50.338460 at epoch 0
+[BEST-MODEL] New best advantage loss: 47.692629 at epoch 2
+[BEST-MODEL] New best advantage loss: 21.196462 at epoch 5
+[LR-SCHEDULER] Advantage network learning rate reduced from 1.00e-04 to 8.00e-05 at epoch 17
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 8.00e-05 to 6.40e-05 at epoch 28
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best advantage loss: 20.784031 at epoch 28
+[LR-SCHEDULER] Advantage network learning rate reduced from 6.40e-05 to 5.12e-05 at epoch 40
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 5.12e-05 to 4.10e-05 at epoch 51
+[LR-SCHEDULER] Current patience counter: 22/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 4.10e-05 to 3.28e-05 at epoch 62
+[LR-SCHEDULER] Current patience counter: 33/60
+[BEST-MODEL] New best advantage loss: 20.443494 at epoch 63
+[LR-SCHEDULER] Advantage network learning rate reduced from 3.28e-05 to 2.62e-05 at epoch 75
+[LR-SCHEDULER] Current patience counter: 11/60
+[LR-SCHEDULER] Advantage network learning rate reduced from 2.62e-05 to 2.10e-05 at epoch 86
+[LR-SCHEDULER] Current patience counter: 22/60
+[BEST-MODEL] New best advantage loss: 20.396208 at epoch 92
