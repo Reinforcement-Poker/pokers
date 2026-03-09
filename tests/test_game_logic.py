@@ -92,3 +92,19 @@ def test_illegal_actions():
 
     high_bet_state = state.apply_action(pkrs.Action(pkrs.ActionEnum.Raise, amount=101))
     assert high_bet_state.status == pkrs.StateStatus.HighBet
+
+
+def test_raise_is_not_legal_when_call_uses_entire_stack():
+    state = pkrs.State.from_seed(
+        n_players=3, button=0, sb=1.0, bb=2.0, stake=4.0, seed=0
+    )
+
+    state = state.apply_action(pkrs.Action(pkrs.ActionEnum.Raise, amount=2.0))
+    state = state.apply_action(pkrs.Action(pkrs.ActionEnum.Call))
+
+    current_player = state.players_state[state.current_player]
+    call_amount = state.min_bet - current_player.bet_chips
+
+    assert call_amount == current_player.stake
+    assert pkrs.ActionEnum.Call in state.legal_actions
+    assert pkrs.ActionEnum.Raise not in state.legal_actions

@@ -4,6 +4,7 @@ build-backend = "maturin"
 
 [project]
 name = "pokers"
+dynamic = ["version"]
 description = "Embarrassingly simple No Limit Texas Holdem environment for RL"
 readme = "README.md"
 requires-python = ">=3.7"
